@@ -1,0 +1,32 @@
+[ {
+  "id" : 1,
+  "userId" : 1,
+  "payload" : {
+    "menuType" : "left",
+    "menuOpenWidth" : 230,
+    "menuOpen" : true,
+    "dualMenuShowText" : false,
+    "systemThemeType" : "light",
+    "systemThemeMode" : "auto",
+    "menuThemeType" : "design",
+    "systemThemeColor" : "#5D87FF",
+    "showMenuButton" : true,
+    "showFastEnter" : true,
+    "showRefreshButton" : true,
+    "showCrumbs" : true,
+    "showWorkTab" : false,
+    "showLanguage" : true,
+    "showNprogress" : false,
+    "showSettingGuide" : false,
+    "watermarkVisible" : false,
+    "autoClose" : false,
+    "uniqueOpened" : false,
+    "colorWeak" : false,
+    "boxBorderMode" : false,
+    "pageTransition" : "slide-left",
+    "tabStyle" : "tab-default",
+    "customRadius" : "0.75",
+    "containerWidth" : "100%"
+  },
+  "updateTime" : "2026-09-11 11:15:39"
+} ]

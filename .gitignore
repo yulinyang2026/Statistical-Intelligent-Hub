@@ -1,0 +1,15 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+.cursorrules
+
+# Auto-generated files
+frontend/src/types/import/auto-imports.d.ts
+frontend/src/types/import/components.d.ts
+frontend/.auto-import.json
+
+# Backend (Gradle) build artifacts
+backend/.gradle/
+backend/build/

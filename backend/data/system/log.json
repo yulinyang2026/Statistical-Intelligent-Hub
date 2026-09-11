@@ -1,0 +1,7521 @@
+[ {
+  "id" : 1,
+  "time" : "2026-09-11 07:37:34",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 2,
+  "time" : "2026-09-11 07:39:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "新增用户",
+  "detail" : "工号 1234 / 手机号 12121212121 / 账号 CXQ / 角色 0 个"
+}, {
+  "id" : 3,
+  "time" : "2026-09-11 07:40:04",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 4,
+  "time" : "2026-09-11 07:40:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "1234(3)",
+  "action" : "新增用户",
+  "detail" : "工号 2345 / 手机号 34334343434 / 账号 1234 / 角色 0 个"
+}, {
+  "id" : 5,
+  "time" : "2026-09-11 07:41:20",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "范睿强组(3)",
+  "action" : "新增部门",
+  "detail" : "编码 8989 / 上级 研发一部 / 层级 3"
+}, {
+  "id" : 6,
+  "time" : "2026-09-11 07:41:40",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "编辑用户",
+  "detail" : "工号 1234 / 手机号 12121212121"
+}, {
+  "id" : 7,
+  "time" : "2026-09-11 07:42:44",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 8,
+  "time" : "2026-09-11 07:48:00",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 9,
+  "time" : "2026-09-11 07:49:18",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 10,
+  "time" : "2026-09-11 07:55:02",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 11,
+  "time" : "2026-09-11 07:55:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "手机号验证部(4)",
+  "action" : "新增部门",
+  "detail" : "编码 MOB_D / 上级 顶级 / 层级 1"
+}, {
+  "id" : 12,
+  "time" : "2026-09-11 07:55:02",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "无手机号用户(4)",
+  "action" : "新增用户",
+  "detail" : "工号 NM001 / 手机号 null / 账号 nomobile / 角色 0 个"
+}, {
+  "id" : 13,
+  "time" : "2026-09-11 07:55:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "无手机号用户2(5)",
+  "action" : "新增用户",
+  "detail" : "工号 NM002 / 手机号  / 账号 nomobile2 / 角色 0 个"
+}, {
+  "id" : 14,
+  "time" : "2026-09-11 07:58:56",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 15,
+  "time" : "2026-09-11 07:59:28",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 16,
+  "time" : "2026-09-11 08:02:37",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 17,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 18,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 19,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(4)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 20,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 21,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(6)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 22,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 23,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 24,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 25,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 26,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 27,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 28,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 29,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(4)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 30,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 31,
+  "time" : "2026-09-11 08:19:02",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 32,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 33,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(6)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 34,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 35,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 36,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 37,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 38,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 39,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 40,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 41,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 42,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 43,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 44,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 45,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 46,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 47,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 48,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 49,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 50,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 51,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 52,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 53,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 54,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 55,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 56,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 57,
+  "time" : "2026-09-11 08:19:03",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 58,
+  "time" : "2026-09-11 08:19:04",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 59,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 60,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 61,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 62,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 63,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 64,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 65,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 66,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 67,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 68,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 69,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 70,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 71,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 72,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 73,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 74,
+  "time" : "2026-09-11 08:19:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 75,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 76,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m2)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 77,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A改 / 系统管理员 / 活跃 → E2E模块A改 / 系统管理员 / 活跃"
+}, {
+  "id" : 78,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s2)"
+}, {
+  "id" : 79,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A改 → E2E子系统A改(s1)"
+}, {
+  "id" : 80,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 81,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 82,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 83,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 84,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 85,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 86,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m3)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 87,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m3)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 88,
+  "time" : "2026-09-11 08:19:18",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 89,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(4)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 90,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 91,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 92,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 93,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 2 个、文档 2 个"
+}, {
+  "id" : 94,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 2 个、文档 2 个"
+}, {
+  "id" : 95,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 2 个、任务 4 个、文档 0 个"
+}, {
+  "id" : 96,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(7)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_sub"
+}, {
+  "id" : 97,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(6)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_noperm"
+}, {
+  "id" : 98,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 99,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(4)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_locktest"
+}, {
+  "id" : 100,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 2 个"
+}, {
+  "id" : 101,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 1 个"
+}, {
+  "id" : 102,
+  "time" : "2026-09-11 08:19:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(6)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 103,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 104,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 105,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(4)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 106,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 107,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(6)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 108,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 109,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 110,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 111,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 112,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 113,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 114,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 115,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(4)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 116,
+  "time" : "2026-09-11 08:20:22",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 117,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 118,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 119,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(6)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 120,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 121,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 122,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 123,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 124,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 125,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 126,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 127,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 128,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 129,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 130,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m2)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 131,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 132,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 133,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 134,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 135,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m2)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 136,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 137,
+  "time" : "2026-09-11 08:20:23",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task10 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 138,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task14 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 139,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task14 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 140,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task10 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 141,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 142,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 143,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 144,
+  "time" : "2026-09-11 08:20:24",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 145,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(4)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 146,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 147,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 148,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 149,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 150,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 151,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 152,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(7)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_sub"
+}, {
+  "id" : 153,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(6)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_noperm"
+}, {
+  "id" : 154,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 155,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(4)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_locktest"
+}, {
+  "id" : 156,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 2 个"
+}, {
+  "id" : 157,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 1 个"
+}, {
+  "id" : 158,
+  "time" : "2026-09-11 08:20:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(6)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 159,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 160,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 161,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(4)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 162,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 163,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(6)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 164,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 165,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 166,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(5)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 167,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 168,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 169,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 170,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 171,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(4)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 172,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 173,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 174,
+  "time" : "2026-09-11 08:22:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 175,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(6)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 176,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 177,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 178,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 179,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 180,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 181,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(5)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 182,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 183,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 184,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 185,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 186,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 187,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 188,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 189,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 190,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 191,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 192,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 193,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 194,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 195,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 196,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 197,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 198,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 199,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 200,
+  "time" : "2026-09-11 08:22:23",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 201,
+  "time" : "2026-09-11 08:22:24",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 202,
+  "time" : "2026-09-11 08:22:24",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 203,
+  "time" : "2026-09-11 08:22:24",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 204,
+  "time" : "2026-09-11 08:22:24",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(4)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 205,
+  "time" : "2026-09-11 08:22:24",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(4)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 206,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(4)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 207,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 208,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 209,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 210,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p1)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 211,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(7)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_sub"
+}, {
+  "id" : 212,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(6)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_noperm"
+}, {
+  "id" : 213,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(5)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 214,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(4)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_locktest"
+}, {
+  "id" : 215,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 2 个"
+}, {
+  "id" : 216,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 1 个"
+}, {
+  "id" : 217,
+  "time" : "2026-09-11 08:22:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(6)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 218,
+  "time" : "2026-09-11 09:05:51",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "admin(1)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 219,
+  "time" : "2026-09-11 09:05:57",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 220,
+  "time" : "2026-09-11 09:06:43",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "王宝健组(4)",
+  "action" : "新增部门",
+  "detail" : "编码 wbjz / 上级 研发一部 / 层级 3"
+}, {
+  "id" : 221,
+  "time" : "2026-09-11 09:06:50",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "离职处理",
+  "detail" : "已停用账号并解除部门归属"
+}, {
+  "id" : 222,
+  "time" : "2026-09-11 09:08:47",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 223,
+  "time" : "2026-09-11 09:08:51",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "1234(3)",
+  "action" : "离职处理",
+  "detail" : "已停用账号并解除部门归属"
+}, {
+  "id" : 224,
+  "time" : "2026-09-11 09:09:33",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 225,
+  "time" : "2026-09-11 09:09:47",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "崔栩强(4)",
+  "action" : "新增用户",
+  "detail" : "工号 jq00cxq / 手机号 null / 账号 CXQCXQ / 角色 1 个"
+}, {
+  "id" : 226,
+  "time" : "2026-09-11 09:10:01",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "离职处理",
+  "detail" : "已停用账号并解除部门归属"
+}, {
+  "id" : 227,
+  "time" : "2026-09-11 09:10:06",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "1234(3)",
+  "action" : "离职处理",
+  "detail" : "已停用账号并解除部门归属"
+}, {
+  "id" : 228,
+  "time" : "2026-09-11 09:10:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "离职处理",
+  "detail" : "已停用账号并解除部门归属"
+}, {
+  "id" : 229,
+  "time" : "2026-09-11 09:10:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "启用用户",
+  "detail" : "账号 CXQ"
+}, {
+  "id" : 230,
+  "time" : "2026-09-11 09:10:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "CXQ(2)",
+  "action" : "停用用户",
+  "detail" : "账号 CXQ"
+}, {
+  "id" : 231,
+  "time" : "2026-09-11 09:17:28",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "张森组(5)",
+  "action" : "新增部门",
+  "detail" : "编码 zs / 上级 研发一部 / 层级 3"
+}, {
+  "id" : 232,
+  "time" : "2026-09-11 09:19:16",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 233,
+  "time" : "2026-09-11 09:19:55",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 234,
+  "time" : "2026-09-11 09:20:42",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 235,
+  "time" : "2026-09-11 09:22:38",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "产品研发二部(6)",
+  "action" : "新增部门",
+  "detail" : "编码 2 / 上级 政府统计 / 层级 2"
+}, {
+  "id" : 236,
+  "time" : "2026-09-11 09:23:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "任远方(5)",
+  "action" : "新增用户",
+  "detail" : "工号 ff / 手机号 null / 账号 renyuanfang / 角色 1 个"
+}, {
+  "id" : 237,
+  "time" : "2026-09-11 09:23:39",
+  "operator" : "任远方",
+  "module" : "auth",
+  "target" : "任远方(5)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 238,
+  "time" : "2026-09-11 09:29:55",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 239,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "安徽统一报表(p1)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 240,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "广东统一报表(p2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 241,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "广西统一报表(p3)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 242,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "黑龙江统一报表(p4)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 243,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "河南统一报表(p5)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 244,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "山东统一报表(p6)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 245,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "吉林统一报表(p7)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 246,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "湖北统一报表(p8)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 247,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "甘肃统一报表(p9)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 248,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "兵团统一报表(p10)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 249,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "厦门统一报表(p11)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 250,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "浙江统一报表(p12)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 251,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "辽宁统一报表(p13)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 252,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "江西统一报表(p14)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 253,
+  "time" : "2026-09-11 09:34:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "内蒙统一报表(p15)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 254,
+  "time" : "2026-09-11 09:44:49",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 255,
+  "time" : "2026-09-11 09:45:11",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 256,
+  "time" : "2026-09-11 09:45:11",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "删除验证用户(6)",
+  "action" : "新增用户",
+  "detail" : "工号 DEL001 / 手机号 null / 账号 deltest / 角色 0 个"
+}, {
+  "id" : 257,
+  "time" : "2026-09-11 09:45:11",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "删除验证用户(6)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 258,
+  "time" : "2026-09-11 09:46:38",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 259,
+  "time" : "2026-09-11 09:49:38",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 260,
+  "time" : "2026-09-11 09:49:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "普通用户验证(6)",
+  "action" : "新增用户",
+  "detail" : "工号 NM100 / 手机号 null / 账号 normaltest / 角色 1 个"
+}, {
+  "id" : 261,
+  "time" : "2026-09-11 09:49:39",
+  "operator" : "普通用户验证",
+  "module" : "auth",
+  "target" : "普通用户验证(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 262,
+  "time" : "2026-09-11 09:50:30",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 263,
+  "time" : "2026-09-11 09:50:35",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 264,
+  "time" : "2026-09-11 09:50:54",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 test",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 进行中"
+}, {
+  "id" : 265,
+  "time" : "2026-09-11 09:50:55",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 test",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 待处理"
+}, {
+  "id" : 266,
+  "time" : "2026-09-11 09:51:29",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 267,
+  "time" : "2026-09-11 09:51:47",
+  "operator" : "普通用户验证",
+  "module" : "auth",
+  "target" : "普通用户验证(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 268,
+  "time" : "2026-09-11 09:53:26",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 269,
+  "time" : "2026-09-11 09:53:44",
+  "operator" : "普通用户验证",
+  "module" : "auth",
+  "target" : "普通用户验证(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 270,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 271,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 272,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 273,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 274,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 275,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 276,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 277,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 278,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 279,
+  "time" : "2026-09-11 09:54:15",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 280,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 281,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 282,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 283,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 284,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 285,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 286,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 287,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 288,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 289,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 290,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 291,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 292,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 293,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 294,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 295,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 296,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 297,
+  "time" : "2026-09-11 09:54:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 298,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 299,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 300,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 301,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m3)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 302,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m3)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 303,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 304,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 305,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 306,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 307,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m3)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 308,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 309,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 310,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task6 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 311,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task6 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 312,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 313,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 314,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 315,
+  "time" : "2026-09-11 09:54:17",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 316,
+  "time" : "2026-09-11 09:54:21",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 317,
+  "time" : "2026-09-11 09:54:21",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 318,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 319,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 320,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 321,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m3)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 322,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 323,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 324,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 325,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 326,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 327,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 328,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 329,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 330,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 331,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 332,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 333,
+  "time" : "2026-09-11 09:54:22",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 334,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 335,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 336,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 337,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 338,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 339,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 340,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 341,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 342,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 343,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 344,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 345,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 346,
+  "time" : "2026-09-11 09:55:31",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 347,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 348,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 349,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 350,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 351,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 352,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 353,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 354,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 355,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 356,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 357,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 358,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 359,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 360,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 361,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 362,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 363,
+  "time" : "2026-09-11 09:55:32",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 364,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 365,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 366,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 367,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 368,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 369,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 370,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 371,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 372,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 373,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 374,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task6 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 375,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task6 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 376,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 377,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 378,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 379,
+  "time" : "2026-09-11 09:55:33",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 380,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 381,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 382,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 383,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 384,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 385,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 386,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 387,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 388,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 389,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 390,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 391,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 392,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 393,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 394,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 395,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 396,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 397,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 398,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 399,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 400,
+  "time" : "2026-09-11 09:55:34",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 401,
+  "time" : "2026-09-11 09:55:49",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 402,
+  "time" : "2026-09-11 09:55:49",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "普通用户验证(6)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 403,
+  "time" : "2026-09-11 09:58:39",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 404,
+  "time" : "2026-09-11 10:00:21",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "TESTPT(6)",
+  "action" : "新增用户",
+  "detail" : "工号 TESTPT / 手机号 null / 账号 TESTPT / 角色 1 个"
+}, {
+  "id" : 405,
+  "time" : "2026-09-11 10:00:39",
+  "operator" : "TESTPT",
+  "module" : "auth",
+  "target" : "TESTPT(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 406,
+  "time" : "2026-09-11 10:01:15",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 407,
+  "time" : "2026-09-11 10:02:22",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "数字安徽省级统一报表升级改造项目（企业决算与企业名录）(p1)",
+  "action" : "编辑",
+  "detail" : "安徽统一报表 / 曹洪玉 / 在建 → 数字安徽省级统一报表升级改造项目（企业决算与企业名录） / 曹洪玉 / 在建"
+}, {
+  "id" : 408,
+  "time" : "2026-09-11 10:02:42",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "兵团财政局企业快报网络版项目(p10)",
+  "action" : "编辑",
+  "detail" : "兵团统一报表 / 曹洪玉 / 在建 → 兵团财政局企业快报网络版项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 409,
+  "time" : "2026-09-11 10:02:52",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "厦门市财政局统一报表系统信创改造(p11)",
+  "action" : "编辑",
+  "detail" : "厦门统一报表 / 曹洪玉 / 在建 → 厦门市财政局统一报表系统信创改造 / 曹洪玉 / 在建"
+}, {
+  "id" : 410,
+  "time" : "2026-09-11 10:03:07",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "浙江省财政厅25年统一报表、部门决算运维服务项目(p12)",
+  "action" : "编辑",
+  "detail" : "浙江统一报表 / 曹洪玉 / 在建 → 浙江省财政厅25年统一报表、部门决算运维服务项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 411,
+  "time" : "2026-09-11 10:03:18",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "辽宁统一报表(p13)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 0 个、任务 0 个、文档 0 个"
+}, {
+  "id" : 412,
+  "time" : "2026-09-11 10:03:38",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "2025年江西省厅企业网报平台信创升级(p14)",
+  "action" : "编辑",
+  "detail" : "江西统一报表 / 曹洪玉 / 在建 → 2025年江西省厅企业网报平台信创升级 / 曹洪玉 / 在建"
+}, {
+  "id" : 413,
+  "time" : "2026-09-11 10:03:52",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "内蒙古财政厅企业名录专项服务(p15)",
+  "action" : "编辑",
+  "detail" : "内蒙统一报表 / 曹洪玉 / 在建 → 内蒙古财政厅企业名录专项服务 / 曹洪玉 / 在建"
+}, {
+  "id" : 414,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 415,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 416,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 417,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 418,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 419,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 420,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 421,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 422,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 423,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 424,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 425,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 426,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 427,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 428,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 429,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 430,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 431,
+  "time" : "2026-09-11 10:06:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 432,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 433,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 434,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 435,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 436,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 437,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 438,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 439,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 440,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 441,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 442,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 443,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 444,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 445,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 446,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 447,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 448,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 449,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 450,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 451,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 452,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 453,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 454,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 455,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 456,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 457,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 458,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 459,
+  "time" : "2026-09-11 10:06:40",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 460,
+  "time" : "2026-09-11 10:06:41",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 461,
+  "time" : "2026-09-11 10:06:41",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 462,
+  "time" : "2026-09-11 10:06:41",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 463,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 464,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 465,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 466,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 467,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 468,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 469,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 470,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 471,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 472,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 473,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 474,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 475,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 476,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 477,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 478,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 479,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 480,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 481,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 482,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 483,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 484,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 485,
+  "time" : "2026-09-11 10:06:42",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 486,
+  "time" : "2026-09-11 10:07:15",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 487,
+  "time" : "2026-09-11 10:07:49",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 488,
+  "time" : "2026-09-11 10:08:21",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 489,
+  "time" : "2026-09-11 10:08:47",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 490,
+  "time" : "2026-09-11 10:08:47",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "验证字典",
+  "action" : "新增字典",
+  "detail" : "编码 verify_dict"
+}, {
+  "id" : 491,
+  "time" : "2026-09-11 10:08:48",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "颜色",
+  "action" : "新增字典字段",
+  "detail" : "字段编码 color / 类型 string / 字典 id 5"
+}, {
+  "id" : 492,
+  "time" : "2026-09-11 10:08:48",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "验证项一",
+  "action" : "新增字典项",
+  "detail" : "编码 V1 / 字典 id 5"
+}, {
+  "id" : 493,
+  "time" : "2026-09-11 10:08:50",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "广东省财政厅财政报表系统2025年升级改造项目(p2)",
+  "action" : "编辑",
+  "detail" : "广东统一报表 / 曹洪玉 / 在建 → 广东省财政厅财政报表系统2025年升级改造项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 494,
+  "time" : "2026-09-11 10:09:06",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "广西财政统一报表系统国产化升级改造项目(p3)",
+  "action" : "编辑",
+  "detail" : "广西统一报表 / 曹洪玉 / 在建 → 广西财政统一报表系统国产化升级改造项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 495,
+  "time" : "2026-09-11 10:09:08",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 496,
+  "time" : "2026-09-11 10:09:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "黑龙江省财政厅2025年内控报告运维项目(p4)",
+  "action" : "编辑",
+  "detail" : "黑龙江统一报表 / 曹洪玉 / 在建 → 黑龙江省财政厅2025年内控报告运维项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 497,
+  "time" : "2026-09-11 10:09:30",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "2024年河南省财政厅财政企业信息化项目升级改造（决算、月报、名录）(p5)",
+  "action" : "编辑",
+  "detail" : "河南统一报表 / 曹洪玉 / 在建 → 2024年河南省财政厅财政企业信息化项目升级改造（决算、月报、名录） / 曹洪玉 / 在建"
+}, {
+  "id" : 498,
+  "time" : "2026-09-11 10:09:41",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "山东省财政厅报表系统国产化适配(p6)",
+  "action" : "编辑",
+  "detail" : "山东统一报表 / 曹洪玉 / 在建 → 山东省财政厅报表系统国产化适配 / 曹洪玉 / 在建"
+}, {
+  "id" : 499,
+  "time" : "2026-09-11 10:09:51",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "吉林省财政厅国有企业决算及月报2024年实施项目(p7)",
+  "action" : "编辑",
+  "detail" : "吉林统一报表 / 曹洪玉 / 在建 → 吉林省财政厅国有企业决算及月报2024年实施项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 500,
+  "time" : "2026-09-11 10:10:01",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "湖北省财政厅2024年企业名录库建设项目(p8)",
+  "action" : "编辑",
+  "detail" : "湖北统一报表 / 曹洪玉 / 在建 → 湖北省财政厅2024年企业名录库建设项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 501,
+  "time" : "2026-09-11 10:10:13",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "2025年甘肃省财政厅产权登记项目(p9)",
+  "action" : "编辑",
+  "detail" : "甘肃统一报表 / 曹洪玉 / 在建 → 2025年甘肃省财政厅产权登记项目 / 曹洪玉 / 在建"
+}, {
+  "id" : 502,
+  "time" : "2026-09-11 10:10:30",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 test",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 进行中"
+}, {
+  "id" : 503,
+  "time" : "2026-09-11 10:10:31",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 test",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 待处理"
+}, {
+  "id" : 504,
+  "time" : "2026-09-11 10:10:35",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 505,
+  "time" : "2026-09-11 10:10:35",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "在建",
+  "action" : "停用字典项",
+  "detail" : "编码 IN_PROGRESS / 字典 id 1"
+}, {
+  "id" : 506,
+  "time" : "2026-09-11 10:12:09",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "admin(1)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 507,
+  "time" : "2026-09-11 10:12:17",
+  "operator" : "TESTPT",
+  "module" : "auth",
+  "target" : "TESTPT(6)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 508,
+  "time" : "2026-09-11 10:12:50",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 509,
+  "time" : "2026-09-11 10:31:52",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 510,
+  "time" : "2026-09-11 10:31:52",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "设置隔离验证(7)",
+  "action" : "新增用户",
+  "detail" : "工号 SET001 / 手机号 null / 账号 settest / 角色 0 个"
+}, {
+  "id" : 511,
+  "time" : "2026-09-11 10:31:53",
+  "operator" : "设置隔离验证",
+  "module" : "auth",
+  "target" : "设置隔离验证(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 512,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 513,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 514,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 515,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 516,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 517,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 518,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 519,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 520,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 521,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 522,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 523,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 524,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 525,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 526,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 527,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 528,
+  "time" : "2026-09-11 10:33:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 529,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 530,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 531,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 532,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 533,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 534,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 535,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 536,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 537,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 538,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 539,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 540,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 541,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 542,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 543,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 544,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 545,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 546,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 547,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 548,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 549,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 550,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 551,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 552,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 553,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 554,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 555,
+  "time" : "2026-09-11 10:33:20",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 556,
+  "time" : "2026-09-11 10:33:21",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 557,
+  "time" : "2026-09-11 10:33:21",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 558,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 559,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 560,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 561,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 562,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 563,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 564,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 565,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 566,
+  "time" : "2026-09-11 10:33:23",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 567,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 568,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 569,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 570,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 571,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 572,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 573,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 574,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 575,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 576,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 577,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 578,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 579,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 580,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 581,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 582,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 583,
+  "time" : "2026-09-11 10:33:24",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 584,
+  "time" : "2026-09-11 10:34:07",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 585,
+  "time" : "2026-09-11 10:34:12",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 586,
+  "time" : "2026-09-11 10:34:50",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 587,
+  "time" : "2026-09-11 10:34:51",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 588,
+  "time" : "2026-09-11 10:35:28",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 589,
+  "time" : "2026-09-11 10:37:43",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 590,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 591,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 592,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 593,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 594,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 595,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 596,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 597,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 598,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 599,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 600,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 601,
+  "time" : "2026-09-11 10:42:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 602,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 603,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 604,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 605,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 606,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 607,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 608,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 609,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 610,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 611,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 612,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 613,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 614,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 615,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 616,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 617,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 618,
+  "time" : "2026-09-11 10:42:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 619,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 620,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 621,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 622,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 623,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 624,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 625,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 626,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 627,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 628,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 629,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 630,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 631,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 632,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 633,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 634,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 635,
+  "time" : "2026-09-11 10:42:27",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 636,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 637,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 638,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 639,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 640,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 641,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 642,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 643,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 644,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 645,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 646,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 647,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 648,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 649,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 650,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 651,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 652,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 653,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 654,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 655,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 656,
+  "time" : "2026-09-11 10:42:28",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 657,
+  "time" : "2026-09-11 10:42:29",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 658,
+  "time" : "2026-09-11 10:42:29",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 659,
+  "time" : "2026-09-11 10:42:29",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 660,
+  "time" : "2026-09-11 10:42:29",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 661,
+  "time" : "2026-09-11 10:42:29",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 662,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 663,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 664,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 665,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 666,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 667,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 668,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 669,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 670,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 671,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 672,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 673,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 674,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 675,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 676,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 677,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 678,
+  "time" : "2026-09-11 10:44:25",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 679,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 680,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 681,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 682,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 683,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 684,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 685,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 686,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 687,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 688,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 689,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 690,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 691,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 692,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 693,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 694,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 695,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 696,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 697,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 698,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 699,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 700,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 701,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 702,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 703,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 704,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 705,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 706,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 707,
+  "time" : "2026-09-11 10:44:26",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 708,
+  "time" : "2026-09-11 10:44:27",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 709,
+  "time" : "2026-09-11 10:44:27",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 710,
+  "time" : "2026-09-11 10:44:27",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 711,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 712,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 713,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 714,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 715,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 716,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 717,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 718,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 719,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 720,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 721,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 722,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 723,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 724,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 725,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 726,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 727,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 728,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(6)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 729,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 730,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 731,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 732,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 733,
+  "time" : "2026-09-11 10:44:28",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 734,
+  "time" : "2026-09-11 10:47:25",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 735,
+  "time" : "2026-09-11 10:48:37",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "部门统计-BMTJ/GSI",
+  "action" : "新增字典项",
+  "detail" : "编码 BMTJ / 字典 id 2"
+}, {
+  "id" : 736,
+  "time" : "2026-09-11 10:50:24",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "业务组件库",
+  "action" : "删除字典项",
+  "detail" : "编码 BIZ_LIB / 字典 id 2"
+}, {
+  "id" : 737,
+  "time" : "2026-09-11 10:50:26",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "统一报表",
+  "action" : "删除字典项",
+  "detail" : "编码 UNI_REPORT / 字典 id 2"
+}, {
+  "id" : 738,
+  "time" : "2026-09-11 10:50:28",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "轻量级统计",
+  "action" : "删除字典项",
+  "detail" : "编码 LW_STAT / 字典 id 2"
+}, {
+  "id" : 739,
+  "time" : "2026-09-11 10:50:30",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "国资监管",
+  "action" : "删除字典项",
+  "detail" : "编码 SASAC / 字典 id 2"
+}, {
+  "id" : 740,
+  "time" : "2026-09-11 10:50:32",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "部门统计",
+  "action" : "删除字典项",
+  "detail" : "编码 DEPT_STAT / 字典 id 2"
+}, {
+  "id" : 741,
+  "time" : "2026-09-11 10:53:23",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "国资监管-PMS",
+  "action" : "新增字典项",
+  "detail" : "编码 PMS / 字典 id 2"
+}, {
+  "id" : 742,
+  "time" : "2026-09-11 10:53:40",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "金融文资监管-JRWZJG",
+  "action" : "新增字典项",
+  "detail" : "编码 JRWZJG / 字典 id 2"
+}, {
+  "id" : 743,
+  "time" : "2026-09-11 10:53:52",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "轻量级统计-QTJ",
+  "action" : "新增字典项",
+  "detail" : "编码 QTJ / 字典 id 2"
+}, {
+  "id" : 744,
+  "time" : "2026-09-11 10:54:02",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "统计大数据底座-BSP",
+  "action" : "新增字典项",
+  "detail" : "编码 BSP / 字典 id 2"
+}, {
+  "id" : 745,
+  "time" : "2026-09-11 10:54:15",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "统一报表-TYBB",
+  "action" : "新增字典项",
+  "detail" : "编码 TYBB / 字典 id 2"
+}, {
+  "id" : 746,
+  "time" : "2026-09-11 10:54:23",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "业务组件库-GMS",
+  "action" : "新增字典项",
+  "detail" : "编码 GMS / 字典 id 2"
+}, {
+  "id" : 747,
+  "time" : "2026-09-11 10:55:38",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "数字安徽省级统一报表升级改造项目（企业决算与企业名录）(p1)",
+  "action" : "编辑",
+  "detail" : "数字安徽省级统一报表升级改造项目（企业决算与企业名录） / 曹洪玉 / 在建 → 数字安徽省级统一报表升级改造项目（企业决算与企业名录） / 曹洪玉 / 完成"
+}, {
+  "id" : 748,
+  "time" : "2026-09-11 10:55:55",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "在建",
+  "action" : "编辑字典项",
+  "detail" : "编码 IN_PROGRESS / 字典 id 1"
+}, {
+  "id" : 749,
+  "time" : "2026-09-11 10:56:02",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "在建",
+  "action" : "删除字典项",
+  "detail" : "编码 IN_PROGRESS / 字典 id 1"
+}, {
+  "id" : 750,
+  "time" : "2026-09-11 10:56:25",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "在建",
+  "action" : "新增字典项",
+  "detail" : "编码 ING / 字典 id 1"
+}, {
+  "id" : 751,
+  "time" : "2026-09-11 11:04:49",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "人事专员(4)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 16 项、用户绑定 0 个"
+}, {
+  "id" : 752,
+  "time" : "2026-09-11 11:04:52",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "项目经理(5)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 14 项、用户绑定 0 个"
+}, {
+  "id" : 753,
+  "time" : "2026-09-11 11:05:51",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "组长(6)",
+  "action" : "新增角色",
+  "detail" : "编码 ZZ / 数据范围 2"
+}, {
+  "id" : 754,
+  "time" : "2026-09-11 11:07:36",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "组长(6)",
+  "action" : "角色授权",
+  "detail" : "权限 13 项 / 数据范围 2"
+}, {
+  "id" : 755,
+  "time" : "2026-09-11 11:11:47",
+  "operator" : "probe",
+  "module" : "auth",
+  "target" : "probe",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 756,
+  "time" : "2026-09-11 11:11:51",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 757,
+  "time" : "2026-09-11 11:12:35",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 758,
+  "time" : "2026-09-11 11:12:35",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 759,
+  "time" : "2026-09-11 11:12:41",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 760,
+  "time" : "2026-09-11 11:12:41",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "已签约",
+  "action" : "编辑字典项",
+  "detail" : "编码 SIGNED / 字典 id 1"
+}, {
+  "id" : 761,
+  "time" : "2026-09-11 11:14:02",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 762,
+  "time" : "2026-09-11 11:14:02",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E拖动验证",
+  "action" : "新增字典",
+  "detail" : "编码 e2e_drag_dict"
+}, {
+  "id" : 763,
+  "time" : "2026-09-11 11:14:02",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-A",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_A / 字典 id 6"
+}, {
+  "id" : 764,
+  "time" : "2026-09-11 11:14:02",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-B",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_B / 字典 id 6"
+}, {
+  "id" : 765,
+  "time" : "2026-09-11 11:14:02",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-C",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_C / 字典 id 6"
+}, {
+  "id" : 766,
+  "time" : "2026-09-11 11:14:15",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 767,
+  "time" : "2026-09-11 11:14:26",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E拖动验证",
+  "action" : "枚举项拖动排序",
+  "detail" : "新顺序：E2E-A、E2E-B、E2E-C"
+}, {
+  "id" : 768,
+  "time" : "2026-09-11 11:14:37",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 769,
+  "time" : "2026-09-11 11:14:37",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-B",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_B / 字典 id 6"
+}, {
+  "id" : 770,
+  "time" : "2026-09-11 11:14:37",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-A",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_A / 字典 id 6"
+}, {
+  "id" : 771,
+  "time" : "2026-09-11 11:14:37",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-C",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_C / 字典 id 6"
+}, {
+  "id" : 772,
+  "time" : "2026-09-11 11:14:37",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E拖动验证",
+  "action" : "删除字典",
+  "detail" : "编码 e2e_drag_dict"
+}, {
+  "id" : 773,
+  "time" : "2026-09-11 11:15:11",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 774,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 775,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 776,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 777,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 778,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 779,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 780,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 781,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 782,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(7)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 783,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(8)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 784,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(7)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 785,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(8)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 786,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 787,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 788,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 789,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 790,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 791,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 792,
+  "time" : "2026-09-11 11:15:16",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 793,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 794,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 795,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 796,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(11)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 797,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(11)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 798,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 799,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 800,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(8)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 801,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 802,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 803,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(8)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 804,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 805,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 806,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 807,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 808,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 809,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 810,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 811,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 812,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 813,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 814,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 815,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 816,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 817,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 818,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 819,
+  "time" : "2026-09-11 11:15:17",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 820,
+  "time" : "2026-09-11 11:15:18",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 821,
+  "time" : "2026-09-11 11:15:18",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 822,
+  "time" : "2026-09-11 11:15:18",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 823,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(7)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 824,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(7)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 825,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(7)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 826,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E排序验证字典",
+  "action" : "新增字典",
+  "detail" : "编码 e2e_dict_reorder"
+}, {
+  "id" : 827,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RA",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_RA / 字典 id 7"
+}, {
+  "id" : 828,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RB",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_RB / 字典 id 7"
+}, {
+  "id" : 829,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RC",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_RC / 字典 id 7"
+}, {
+  "id" : 830,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E排序验证字典",
+  "action" : "枚举项拖动排序",
+  "detail" : "新顺序：E2E-E2E_RA、E2E-E2E_RB、E2E-E2E_RC"
+}, {
+  "id" : 831,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-改名A",
+  "action" : "编辑字典项",
+  "detail" : "编码 E2E_RC / 字典 id 7"
+}, {
+  "id" : 832,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "必填备注",
+  "action" : "新增字典字段",
+  "detail" : "字段编码 req_note / 类型 string / 字典 id 7"
+}, {
+  "id" : 833,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 834,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 835,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 836,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 837,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 838,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(9)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 839,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 840,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 841,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 842,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(10)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 843,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(9)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 844,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(8)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 845,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(7)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 846,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 847,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(7)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 848,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(8)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 849,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(10)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 850,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(8)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 851,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(9)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 852,
+  "time" : "2026-09-11 11:15:19",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(7)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+}, {
+  "id" : 853,
+  "time" : "2026-09-11 11:15:32",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 854,
+  "time" : "2026-09-11 11:15:32",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-改名A",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_RC / 字典 id 7"
+}, {
+  "id" : 855,
+  "time" : "2026-09-11 11:15:32",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RB",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_RB / 字典 id 7"
+}, {
+  "id" : 856,
+  "time" : "2026-09-11 11:15:32",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RA",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_RA / 字典 id 7"
+}, {
+  "id" : 857,
+  "time" : "2026-09-11 11:15:32",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E排序验证字典",
+  "action" : "删除字典",
+  "detail" : "编码 e2e_dict_reorder"
+}, {
+  "id" : 858,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "auth",
+  "target" : "系统管理员(1)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 859,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "no_such_user",
+  "module" : "auth",
+  "target" : "no_such_user",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 860,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(11)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_ROOT / 上级 顶级 / 层级 1"
+}, {
+  "id" : 861,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(12)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_RD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 862,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(13)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_PD / 上级 E2E总公司 / 层级 2"
+}, {
+  "id" : 863,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(14)",
+  "action" : "新增部门",
+  "detail" : "编码 E2E_FE / 上级 E2E研发中心 / 层级 3"
+}, {
+  "id" : 864,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(改)(12)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心 / E2E_RD / 状态启用 → E2E研发中心(改) / E2E_RD / 状态启用"
+}, {
+  "id" : 865,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(12)",
+  "action" : "编辑部门",
+  "detail" : "E2E研发中心(改) / E2E_RD / 状态启用 → E2E研发中心 / E2E_RD / 状态启用"
+}, {
+  "id" : 866,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(9)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_ROLE / 数据范围 1"
+}, {
+  "id" : 867,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(10)",
+  "action" : "新增角色",
+  "detail" : "编码 E2E_NOPERM / 数据范围 5"
+}, {
+  "id" : 868,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(9)",
+  "action" : "角色授权",
+  "detail" : "权限 11 项 / 数据范围 1"
+}, {
+  "id" : 869,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(10)",
+  "action" : "角色授权",
+  "detail" : "权限 0 项 / 数据范围 5"
+}, {
+  "id" : 870,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(12)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E009 / 手机号 13900000009 / 账号 e2e_locktest / 角色 0 个"
+}, {
+  "id" : 871,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(12)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 872,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(12)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 873,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(13)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E001 / 手机号 13900000001 / 账号 e2e_main / 角色 1 个"
+}, {
+  "id" : 874,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(14)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E002 / 手机号 13900000002 / 账号 e2e_noperm / 角色 1 个"
+}, {
+  "id" : 875,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(15)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E003 / 手机号 13900000003 / 账号 e2e_sub / 角色 1 个"
+}, {
+  "id" : 876,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(13)",
+  "action" : "重置密码",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 877,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(13)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 878,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "e2e_main(13)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 879,
+  "time" : "2026-09-11 11:15:37",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(16)",
+  "action" : "新增用户",
+  "detail" : "工号 E2E099 / 手机号 null / 账号 e2e_del / 角色 0 个"
+}, {
+  "id" : 880,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "E2E待删用户",
+  "module" : "auth",
+  "target" : "E2E待删用户(16)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 881,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E待删用户(16)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 882,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "e2e_del",
+  "module" : "auth",
+  "target" : "e2e_del",
+  "action" : "登录失败",
+  "detail" : "账号不存在"
+}, {
+  "id" : 883,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(13)",
+  "action" : "停用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 884,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "e2e_main",
+  "module" : "auth",
+  "target" : "e2e_main(13)",
+  "action" : "登录失败",
+  "detail" : "账号已停用"
+}, {
+  "id" : 885,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(13)",
+  "action" : "启用用户",
+  "detail" : "账号 e2e_main"
+}, {
+  "id" : 886,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(13)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 887,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "E2E主用户",
+  "module" : "auth",
+  "target" : "E2E主用户(13)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 888,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(14)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 889,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A(m1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 890,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "编辑",
+  "detail" : "E2E模块A / 系统管理员 / 非活跃 → E2E模块A改 / 系统管理员 / 非活跃"
+}, {
+  "id" : 891,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 892,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 893,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "新增子系统",
+  "detail" : "E2E子系统A(s1)"
+}, {
+  "id" : 894,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "编辑子系统",
+  "detail" : "E2E子系统A → E2E子系统A改(s1)"
+}, {
+  "id" : 895,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 896,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 897,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 898,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 899,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 E2E子任务",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 900,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 E2E项目任务",
+  "action" : "看板写回·hours",
+  "detail" : "8 → 12"
+}, {
+  "id" : 901,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 902,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 E2E专题文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 903,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 E2E文档A改",
+  "action" : "编辑",
+  "detail" : "E2E文档A → E2E文档A改（4 字）"
+}, {
+  "id" : 904,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 905,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 906,
+  "time" : "2026-09-11 11:15:38",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(12)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 907,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "E2E锁定测试",
+  "module" : "user",
+  "target" : "e2e_locktest(12)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 908,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "E2E锁定测试(12)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 909,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "E2E锁定测试",
+  "module" : "auth",
+  "target" : "e2e_locktest(12)",
+  "action" : "登录失败",
+  "detail" : "密码错误"
+}, {
+  "id" : 910,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E排序验证字典",
+  "action" : "新增字典",
+  "detail" : "编码 e2e_dict_reorder"
+}, {
+  "id" : 911,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RA",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_RA / 字典 id 8"
+}, {
+  "id" : 912,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RB",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_RB / 字典 id 8"
+}, {
+  "id" : 913,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RC",
+  "action" : "新增字典项",
+  "detail" : "编码 E2E_RC / 字典 id 8"
+}, {
+  "id" : 914,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E排序验证字典",
+  "action" : "枚举项拖动排序",
+  "detail" : "新顺序：E2E-E2E_RA、E2E-E2E_RB、E2E-E2E_RC"
+}, {
+  "id" : 915,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-改名A",
+  "action" : "编辑字典项",
+  "detail" : "编码 E2E_RC / 字典 id 8"
+}, {
+  "id" : 916,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "必填备注",
+  "action" : "新增字典字段",
+  "detail" : "字段编码 req_note / 类型 string / 字典 id 8"
+}, {
+  "id" : 917,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-改名A",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_RC / 字典 id 8"
+}, {
+  "id" : 918,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RB",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_RB / 字典 id 8"
+}, {
+  "id" : 919,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E-E2E_RA",
+  "action" : "删除字典项",
+  "detail" : "编码 E2E_RA / 字典 id 8"
+}, {
+  "id" : 920,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "dict",
+  "target" : "E2E排序验证字典",
+  "action" : "删除字典",
+  "detail" : "编码 e2e_dict_reorder"
+}, {
+  "id" : 921,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（3 项）"
+}, {
+  "id" : 922,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 923,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 924,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 E2E批量删除文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 925,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 E2E批量删除文档1",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 926,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "E2E无权限用户",
+  "module" : "auth",
+  "target" : "E2E无权限用户(14)",
+  "action" : "登录",
+  "detail" : "登录成功"
+}, {
+  "id" : 927,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E模块A改(m1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 928,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "E2E专题A(tp1)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 929,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "E2E项目A(p16)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 1 个、任务 2 个、文档 0 个"
+}, {
+  "id" : 930,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E下属用户(15)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 931,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E无权限用户(14)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 932,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E主用户(13)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 933,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "E2E锁定测试(12)",
+  "action" : "删除用户",
+  "detail" : "账号与部门/角色绑定一并移除"
+}, {
+  "id" : 934,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "E2E导入模块(m2)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 935,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E测试角色(9)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 11 项、用户绑定 0 个"
+}, {
+  "id" : 936,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "role",
+  "target" : "E2E空权限角色(10)",
+  "action" : "删除角色",
+  "detail" : "同时解除权限 0 项、用户绑定 0 个"
+}, {
+  "id" : 937,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E前端组(14)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_FE"
+}, {
+  "id" : 938,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E研发中心(12)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_RD"
+}, {
+  "id" : 939,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E产品中心(13)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_PD"
+}, {
+  "id" : 940,
+  "time" : "2026-09-11 11:15:39",
+  "operator" : "系统管理员",
+  "module" : "org",
+  "target" : "E2E总公司(11)",
+  "action" : "删除部门",
+  "detail" : "编码 E2E_ROOT"
+} ]

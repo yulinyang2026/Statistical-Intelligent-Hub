@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "系统管理员",
+    "employeeNo": "EMP001",
+    "mobile": "13800000001",
+    "email": "admin@bsp.com",
+    "managerUserId": null,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 2,
+    "name": "张伟",
+    "employeeNo": "EMP002",
+    "mobile": "13800000002",
+    "email": "zhangwei@bsp.com",
+    "managerUserId": 1,
+    "status": 1,
+    "createTime": "2025-01-02 08:00:00",
+    "updateTime": "2025-01-02 08:00:00"
+  },
+  {
+    "id": 3,
+    "name": "王芳",
+    "employeeNo": "EMP003",
+    "mobile": "13800000003",
+    "email": "wangfang@bsp.com",
+    "managerUserId": 2,
+    "status": 1,
+    "createTime": "2025-01-03 08:00:00",
+    "updateTime": "2025-01-03 08:00:00"
+  },
+  {
+    "id": 4,
+    "name": "李磊",
+    "employeeNo": "EMP004",
+    "mobile": "13800000004",
+    "email": "lilei@bsp.com",
+    "managerUserId": 2,
+    "status": 1,
+    "createTime": "2025-01-03 08:30:00",
+    "updateTime": "2025-01-03 08:30:00"
+  },
+  {
+    "id": 5,
+    "name": "赵敏",
+    "employeeNo": "EMP005",
+    "mobile": "13800000005",
+    "email": "zhaomin@bsp.com",
+    "managerUserId": 2,
+    "status": 1,
+    "createTime": "2025-01-03 09:00:00",
+    "updateTime": "2025-01-03 09:00:00"
+  },
+  {
+    "id": 6,
+    "name": "陈静",
+    "employeeNo": "EMP006",
+    "mobile": "13800000006",
+    "email": "chenjing@bsp.com",
+    "managerUserId": 1,
+    "status": 1,
+    "createTime": "2025-01-06 08:00:00",
+    "updateTime": "2025-01-06 08:00:00"
+  },
+  {
+    "id": 7,
+    "name": "刘洋",
+    "employeeNo": "EMP007",
+    "mobile": "13800000007",
+    "email": "liuyang@bsp.com",
+    "managerUserId": 6,
+    "status": 1,
+    "createTime": "2025-01-06 08:30:00",
+    "updateTime": "2025-01-06 08:30:00"
+  },
+  {
+    "id": 8,
+    "name": "杨娟",
+    "employeeNo": "EMP008",
+    "mobile": "13800000008",
+    "email": "yangjuan@bsp.com",
+    "managerUserId": 6,
+    "status": 1,
+    "createTime": "2025-01-06 09:00:00",
+    "updateTime": "2025-01-06 09:00:00"
+  },
+  {
+    "id": 9,
+    "name": "黄军",
+    "employeeNo": "EMP009",
+    "mobile": "13800000009",
+    "email": "huangjun@bsp.com",
+    "managerUserId": 1,
+    "status": 1,
+    "createTime": "2025-01-07 08:00:00",
+    "updateTime": "2025-01-07 08:00:00"
+  },
+  {
+    "id": 10,
+    "name": "周霞",
+    "employeeNo": "EMP010",
+    "mobile": "13800000010",
+    "email": "zhouxia@bsp.com",
+    "managerUserId": 11,
+    "status": 1,
+    "createTime": "2025-01-07 08:30:00",
+    "updateTime": "2025-01-07 08:30:00"
+  },
+  {
+    "id": 11,
+    "name": "吴涛",
+    "employeeNo": "EMP011",
+    "mobile": "13800000011",
+    "email": "wutao@bsp.com",
+    "managerUserId": 9,
+    "status": 1,
+    "createTime": "2025-01-07 09:00:00",
+    "updateTime": "2025-01-07 09:00:00"
+  },
+  {
+    "id": 12,
+    "name": "郑丽华",
+    "employeeNo": "EMP012",
+    "mobile": "13800000012",
+    "email": "zhenglihua@bsp.com",
+    "managerUserId": 1,
+    "status": 1,
+    "createTime": "2025-01-08 08:00:00",
+    "updateTime": "2025-01-08 08:00:00"
+  },
+  {
+    "id": 13,
+    "name": "王强",
+    "employeeNo": "EMP013",
+    "mobile": "13800000013",
+    "email": "wangqiang@bsp.com",
+    "managerUserId": 3,
+    "status": 1,
+    "createTime": "2025-01-09 08:00:00",
+    "updateTime": "2025-01-09 08:00:00"
+  },
+  {
+    "id": 14,
+    "name": "李娜",
+    "employeeNo": "EMP014",
+    "mobile": "13800000014",
+    "email": "lina@bsp.com",
+    "managerUserId": 3,
+    "status": 1,
+    "createTime": "2025-01-09 08:30:00",
+    "updateTime": "2025-01-09 08:30:00"
+  },
+  {
+    "id": 15,
+    "name": "张军",
+    "employeeNo": "EMP015",
+    "mobile": "13800000015",
+    "email": "zhangjun@bsp.com",
+    "managerUserId": 4,
+    "status": 1,
+    "createTime": "2025-01-10 08:00:00",
+    "updateTime": "2025-01-10 08:00:00"
+  },
+  {
+    "id": 16,
+    "name": "王敏",
+    "employeeNo": "EMP016",
+    "mobile": "13800000016",
+    "email": "wangmin@bsp.com",
+    "managerUserId": 4,
+    "status": 1,
+    "createTime": "2025-01-10 08:30:00",
+    "updateTime": "2025-01-10 08:30:00"
+  },
+  {
+    "id": 17,
+    "name": "李杰",
+    "employeeNo": "EMP017",
+    "mobile": "13800000017",
+    "email": "lijie@bsp.com",
+    "managerUserId": 5,
+    "status": 1,
+    "createTime": "2025-01-10 09:00:00",
+    "updateTime": "2025-01-10 09:00:00"
+  },
+  {
+    "id": 18,
+    "name": "赵秀英",
+    "employeeNo": "EMP018",
+    "mobile": "13800000018",
+    "email": "zhaoxiuying@bsp.com",
+    "managerUserId": null,
+    "status": 0,
+    "createTime": "2025-01-10 09:30:00",
+    "updateTime": "2025-07-15 10:00:00"
+  },
+  {
+    "id": 19,
+    "name": "陈明",
+    "employeeNo": "EMP019",
+    "mobile": "13800000019",
+    "email": "chenming@bsp.com",
+    "managerUserId": 12,
+    "status": 1,
+    "createTime": "2025-01-11 08:00:00",
+    "updateTime": "2025-01-11 08:00:00"
+  },
+  {
+    "id": 20,
+    "name": "刘芳",
+    "employeeNo": "EMP020",
+    "mobile": "13800000020",
+    "email": "liufang@bsp.com",
+    "managerUserId": 12,
+    "status": 1,
+    "createTime": "2025-01-11 08:30:00",
+    "updateTime": "2025-01-11 08:30:00"
+  }
+]

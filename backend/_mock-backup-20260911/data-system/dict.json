@@ -1,0 +1,45 @@
+[ {
+  "id" : 1,
+  "code" : "project_status",
+  "name" : "项目状态",
+  "description" : "项目生命周期状态，含颜色与终态标记",
+  "isBuiltin" : 1,
+  "status" : 1,
+  "sort" : 1,
+  "createTime" : "2025-01-01 08:00:00",
+  "updateTime" : "2025-01-01 08:00:00",
+  "deleted" : 0
+}, {
+  "id" : 2,
+  "code" : "product_belong",
+  "name" : "归属产品",
+  "description" : "产品线归属",
+  "isBuiltin" : 1,
+  "status" : 1,
+  "sort" : 2,
+  "createTime" : "2025-01-01 08:00:00",
+  "updateTime" : "2025-01-01 08:00:00",
+  "deleted" : 0
+}, {
+  "id" : 3,
+  "code" : "module_type",
+  "name" : "模块分类",
+  "description" : "模块归属分类",
+  "isBuiltin" : 1,
+  "status" : 1,
+  "sort" : 3,
+  "createTime" : "2025-01-01 08:00:00",
+  "updateTime" : "2025-01-01 08:00:00",
+  "deleted" : 0
+}, {
+  "id" : 4,
+  "code" : "module_status",
+  "name" : "模块/专题状态",
+  "description" : "模块与专题生命周期",
+  "isBuiltin" : 1,
+  "status" : 1,
+  "sort" : 4,
+  "createTime" : "2026-09-10 08:00:00",
+  "updateTime" : "2026-09-10 23:16:09",
+  "deleted" : 0
+} ]

@@ -1,0 +1,19 @@
+[ {
+  "id" : 4,
+  "userId" : 4,
+  "orgId" : 2,
+  "isPrimary" : true,
+  "createTime" : "2026-09-11 09:09:47"
+}, {
+  "id" : 5,
+  "userId" : 5,
+  "orgId" : 6,
+  "isPrimary" : true,
+  "createTime" : "2026-09-11 09:23:26"
+}, {
+  "id" : 6,
+  "userId" : 6,
+  "orgId" : 3,
+  "isPrimary" : true,
+  "createTime" : "2026-09-11 10:00:21"
+} ]

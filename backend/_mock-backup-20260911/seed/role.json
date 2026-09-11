@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "超级管理员",
+    "code": "R_SUPER",
+    "type": 1,
+    "dataScope": 1,
+    "customOrgIds": null,
+    "remark": "系统内置角色，拥有全部权限",
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 2,
+    "name": "普通员工",
+    "code": "R_EMP",
+    "type": 1,
+    "dataScope": 4,
+    "customOrgIds": null,
+    "remark": "系统内置角色，仅本人数据",
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 3,
+    "name": "部门管理员",
+    "code": "R_ORG_ADMIN",
+    "type": 2,
+    "dataScope": 2,
+    "customOrgIds": null,
+    "remark": "管理本组织及下级数据",
+    "status": 1,
+    "createTime": "2025-02-01 08:00:00",
+    "updateTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 4,
+    "name": "人事专员",
+    "code": "R_HR",
+    "type": 2,
+    "dataScope": 6,
+    "customOrgIds": [
+      1,
+      5
+    ],
+    "remark": "管理指定部门的人员数据",
+    "status": 1,
+    "createTime": "2025-02-10 08:00:00",
+    "updateTime": "2025-02-10 08:00:00"
+  },
+  {
+    "id": 5,
+    "name": "项目经理",
+    "code": "R_PM",
+    "type": 2,
+    "dataScope": 5,
+    "customOrgIds": null,
+    "remark": "本人及直属下属的数据",
+    "status": 1,
+    "createTime": "2025-03-01 08:00:00",
+    "updateTime": "2025-03-01 08:00:00"
+  }
+]

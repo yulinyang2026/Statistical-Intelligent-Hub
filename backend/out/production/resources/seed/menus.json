@@ -1,0 +1,71 @@
+[
+  {
+    "path": "/org",
+    "name": "Org",
+    "component": "/index/index",
+    "meta": {
+      "title": "menus.org.title",
+      "icon": "ri:node-tree"
+    }
+  },
+  {
+    "path": "/user",
+    "name": "User",
+    "component": "/index/index",
+    "meta": {
+      "title": "menus.user.title",
+      "icon": "ri:user-settings-line"
+    }
+  },
+  {
+    "path": "/role",
+    "name": "Role",
+    "component": "/index/index",
+    "meta": {
+      "title": "menus.role.title",
+      "icon": "ri:shield-user-line"
+    }
+  },
+  {
+    "path": "/demo",
+    "name": "Demo",
+    "component": "/index/index",
+    "meta": {
+      "title": "menus.demo.title",
+      "icon": "ri:flask-line"
+    },
+    "children": [
+      {
+        "path": "user",
+        "name": "DemoUser",
+        "component": "/demo/user/index",
+        "meta": {
+          "title": "menus.demo.user",
+          "icon": "ri:user-settings-line",
+          "keepAlive": true
+        }
+      }
+    ]
+  },
+  {
+    "path": "/result",
+    "name": "Result",
+    "component": "/index/index",
+    "meta": {
+      "title": "menus.result.title",
+      "icon": "ri:checkbox-circle-line"
+    },
+    "children": [
+      {
+        "path": "success",
+        "name": "ResultSuccess",
+        "component": "/result/success",
+        "meta": {
+          "title": "menus.result.success",
+          "icon": "ri:checkbox-circle-line",
+          "keepAlive": true
+        }
+      }
+    ]
+  }
+]

@@ -1,0 +1,69 @@
+[ {
+  "id" : 1,
+  "parentId" : 0,
+  "name" : "政府统计",
+  "code" : "0000",
+  "leaderUserId" : 1,
+  "sort" : 0,
+  "status" : 1,
+  "path" : "1",
+  "level" : 1,
+  "createTime" : "2026-09-11 07:33:38",
+  "updateTime" : "2026-09-11 07:33:38"
+}, {
+  "id" : 2,
+  "parentId" : 1,
+  "name" : "研发一部",
+  "code" : "0001",
+  "leaderUserId" : 4,
+  "sort" : 0,
+  "status" : 1,
+  "path" : "1/2",
+  "level" : 2,
+  "createTime" : "2026-09-11 07:34:14",
+  "updateTime" : "2026-09-11 09:09:47"
+}, {
+  "id" : 3,
+  "parentId" : 2,
+  "name" : "范睿强组",
+  "code" : "8989",
+  "sort" : 0,
+  "status" : 1,
+  "path" : "1/2/3",
+  "level" : 3,
+  "createTime" : "2026-09-11 07:41:20",
+  "updateTime" : "2026-09-11 09:06:50"
+}, {
+  "id" : 4,
+  "parentId" : 2,
+  "name" : "王宝健组",
+  "code" : "wbjz",
+  "sort" : 0,
+  "status" : 1,
+  "path" : "1/2/4",
+  "level" : 3,
+  "createTime" : "2026-09-11 09:06:43",
+  "updateTime" : "2026-09-11 09:06:43"
+}, {
+  "id" : 5,
+  "parentId" : 2,
+  "name" : "张森组",
+  "code" : "zs",
+  "sort" : 0,
+  "status" : 1,
+  "path" : "1/2/5",
+  "level" : 3,
+  "createTime" : "2026-09-11 09:17:28",
+  "updateTime" : "2026-09-11 09:17:28"
+}, {
+  "id" : 6,
+  "parentId" : 1,
+  "name" : "产品研发二部",
+  "code" : "2",
+  "sort" : 0,
+  "status" : 1,
+  "path" : "1/6",
+  "level" : 2,
+  "createTime" : "2026-09-11 09:22:38",
+  "updateTime" : "2026-09-11 09:22:38"
+} ]

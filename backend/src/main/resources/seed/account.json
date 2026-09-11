@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "username": "admin",
+    "authType": "password",
+    "credential": "SEED:123456",
+    "status": 1,
+    "failCount": 0,
+    "lockUntil": null,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00"
+  }
+]

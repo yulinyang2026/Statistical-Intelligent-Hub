@@ -1,0 +1,650 @@
+[
+  {
+    "id": 1,
+    "roleId": 1,
+    "permissionId": 1,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 2,
+    "roleId": 1,
+    "permissionId": 2,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 3,
+    "roleId": 1,
+    "permissionId": 3,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 4,
+    "roleId": 1,
+    "permissionId": 4,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 5,
+    "roleId": 1,
+    "permissionId": 5,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 6,
+    "roleId": 1,
+    "permissionId": 6,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 7,
+    "roleId": 1,
+    "permissionId": 7,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 8,
+    "roleId": 1,
+    "permissionId": 8,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 9,
+    "roleId": 1,
+    "permissionId": 9,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 10,
+    "roleId": 1,
+    "permissionId": 10,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 11,
+    "roleId": 1,
+    "permissionId": 11,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 12,
+    "roleId": 1,
+    "permissionId": 12,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 13,
+    "roleId": 1,
+    "permissionId": 13,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 14,
+    "roleId": 1,
+    "permissionId": 14,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 15,
+    "roleId": 1,
+    "permissionId": 15,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 16,
+    "roleId": 1,
+    "permissionId": 16,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 17,
+    "roleId": 1,
+    "permissionId": 17,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 18,
+    "roleId": 1,
+    "permissionId": 18,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 19,
+    "roleId": 1,
+    "permissionId": 19,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 20,
+    "roleId": 1,
+    "permissionId": 20,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 21,
+    "roleId": 1,
+    "permissionId": 21,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 22,
+    "roleId": 1,
+    "permissionId": 22,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 23,
+    "roleId": 1,
+    "permissionId": 23,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 24,
+    "roleId": 2,
+    "permissionId": 4,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 25,
+    "roleId": 2,
+    "permissionId": 5,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 26,
+    "roleId": 3,
+    "permissionId": 1,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 27,
+    "roleId": 3,
+    "permissionId": 2,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 28,
+    "roleId": 3,
+    "permissionId": 3,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 29,
+    "roleId": 3,
+    "permissionId": 6,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 30,
+    "roleId": 3,
+    "permissionId": 8,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 31,
+    "roleId": 3,
+    "permissionId": 10,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 32,
+    "roleId": 3,
+    "permissionId": 11,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 33,
+    "roleId": 3,
+    "permissionId": 13,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 34,
+    "roleId": 3,
+    "permissionId": 15,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 35,
+    "roleId": 3,
+    "permissionId": 17,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 36,
+    "roleId": 4,
+    "permissionId": 2,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 37,
+    "roleId": 4,
+    "permissionId": 11,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 38,
+    "roleId": 4,
+    "permissionId": 12,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 39,
+    "roleId": 4,
+    "permissionId": 13,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 40,
+    "roleId": 4,
+    "permissionId": 14,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 41,
+    "roleId": 4,
+    "permissionId": 15,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 42,
+    "roleId": 4,
+    "permissionId": 16,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 43,
+    "roleId": 4,
+    "permissionId": 23,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 44,
+    "roleId": 5,
+    "permissionId": 4,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 45,
+    "roleId": 1,
+    "permissionId": 24,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 46,
+    "roleId": 1,
+    "permissionId": 25,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 47,
+    "roleId": 1,
+    "permissionId": 26,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 48,
+    "roleId": 1,
+    "permissionId": 27,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 49,
+    "roleId": 2,
+    "permissionId": 24,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 50,
+    "roleId": 2,
+    "permissionId": 26,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 51,
+    "roleId": 2,
+    "permissionId": 27,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 52,
+    "roleId": 3,
+    "permissionId": 24,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 53,
+    "roleId": 3,
+    "permissionId": 25,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 54,
+    "roleId": 3,
+    "permissionId": 26,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 55,
+    "roleId": 3,
+    "permissionId": 27,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 56,
+    "roleId": 4,
+    "permissionId": 24,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 57,
+    "roleId": 4,
+    "permissionId": 25,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 58,
+    "roleId": 5,
+    "permissionId": 24,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 59,
+    "roleId": 5,
+    "permissionId": 25,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 60,
+    "roleId": 5,
+    "permissionId": 26,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 61,
+    "roleId": 5,
+    "permissionId": 27,
+    "createTime": "2025-02-01 08:00:00"
+  },
+  {
+    "id": 62,
+    "roleId": 1,
+    "permissionId": 28,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 63,
+    "roleId": 1,
+    "permissionId": 29,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 64,
+    "roleId": 1,
+    "permissionId": 30,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 65,
+    "roleId": 1,
+    "permissionId": 31,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 66,
+    "roleId": 1,
+    "permissionId": 32,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 67,
+    "roleId": 2,
+    "permissionId": 28,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 68,
+    "roleId": 2,
+    "permissionId": 30,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 69,
+    "roleId": 2,
+    "permissionId": 31,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 70,
+    "roleId": 3,
+    "permissionId": 28,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 71,
+    "roleId": 3,
+    "permissionId": 29,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 72,
+    "roleId": 3,
+    "permissionId": 30,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 73,
+    "roleId": 3,
+    "permissionId": 31,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 74,
+    "roleId": 3,
+    "permissionId": 32,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 75,
+    "roleId": 4,
+    "permissionId": 28,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 76,
+    "roleId": 4,
+    "permissionId": 30,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 77,
+    "roleId": 5,
+    "permissionId": 28,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 78,
+    "roleId": 5,
+    "permissionId": 29,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 79,
+    "roleId": 5,
+    "permissionId": 30,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 80,
+    "roleId": 5,
+    "permissionId": 31,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 81,
+    "roleId": 5,
+    "permissionId": 32,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 82,
+    "roleId": 1,
+    "permissionId": 33,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 83,
+    "roleId": 2,
+    "permissionId": 33,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 84,
+    "roleId": 3,
+    "permissionId": 33,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 85,
+    "roleId": 4,
+    "permissionId": 33,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 86,
+    "roleId": 5,
+    "permissionId": 33,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 87,
+    "roleId": 1,
+    "permissionId": 34,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 88,
+    "roleId": 3,
+    "permissionId": 34,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 89,
+    "roleId": 5,
+    "permissionId": 34,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 90,
+    "roleId": 1,
+    "permissionId": 35,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 91,
+    "roleId": 3,
+    "permissionId": 35,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 92,
+    "roleId": 1,
+    "permissionId": 36,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 93,
+    "roleId": 3,
+    "permissionId": 36,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 94,
+    "roleId": 1,
+    "permissionId": 37,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 95,
+    "roleId": 2,
+    "permissionId": 37,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 96,
+    "roleId": 3,
+    "permissionId": 37,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 97,
+    "roleId": 5,
+    "permissionId": 37,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 98,
+    "roleId": 1,
+    "permissionId": 38,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 99,
+    "roleId": 1,
+    "permissionId": 39,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 100,
+    "roleId": 1,
+    "permissionId": 40,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 101,
+    "roleId": 2,
+    "permissionId": 40,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 102,
+    "roleId": 3,
+    "permissionId": 40,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 103,
+    "roleId": 4,
+    "permissionId": 40,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 104,
+    "roleId": 5,
+    "permissionId": 40,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 105,
+    "roleId": 1,
+    "permissionId": 41,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 106,
+    "roleId": 3,
+    "permissionId": 41,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 107,
+    "roleId": 5,
+    "permissionId": 41,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 108,
+    "roleId": 1,
+    "permissionId": 42,
+    "createTime": "2026-09-11 08:00:00"
+  }
+]

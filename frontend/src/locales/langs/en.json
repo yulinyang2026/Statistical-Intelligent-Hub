@@ -1,0 +1,925 @@
+{
+  "httpMsg": {
+    "unauthorized": "Unauthorized access, please login again",
+    "forbidden": "Access to this resource is forbidden",
+    "notFound": "The requested resource does not exist",
+    "methodNotAllowed": "Request method not allowed",
+    "requestTimeout": "Request timeout, please try again later",
+    "internalServerError": "Internal server error, please try again later",
+    "badGateway": "Bad gateway error, please try again later",
+    "serviceUnavailable": "Service temporarily unavailable, please try again later",
+    "gatewayTimeout": "Gateway timeout, please try again later",
+    "requestCancelled": "Request cancelled",
+    "networkError": "Network connection error, please check your connection",
+    "requestFailed": "Request failed",
+    "requestConfigError": "Request configuration error"
+  },
+  "topBar": {
+    "search": {
+      "title": "Search"
+    },
+    "user": {
+      "userCenter": "User center",
+      "docs": "Document",
+      "lockScreen": "Lock screen",
+      "logout": "Log out"
+    },
+    "guide": {
+      "title": "Click here to view",
+      "theme": "Theme style",
+      "menu": "Open top menu",
+      "description": "More configurations"
+    }
+  },
+  "common": {
+    "tips": "Prompt",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "logOutTips": "Do you want to log out?",
+    "index": "Index",
+    "operation": "Operation",
+    "add": "Add",
+    "edit": "Edit",
+    "delete": "Delete",
+    "view": "View",
+    "saveSuccess": "Saved successfully",
+    "deleteSuccess": "Deleted successfully",
+    "operateSuccess": "Operation successful",
+    "all": "All",
+    "gteHint": "Greater than or equal",
+    "rangeHint": "Pick a start and end date",
+    "resetFilter": "Reset Filters",
+    "deleteTips": "Are you sure you want to delete the selected record?",
+    "enable": "Enable",
+    "disable": "Disable",
+    "enabled": "Enabled",
+    "disabled": "Disabled",
+    "status": "Status",
+    "statusPlaceholder": "Select status",
+    "moreActions": "More",
+    "yes": "Yes",
+    "no": "No",
+    "batchDelete": "Batch Delete",
+    "batchDeleteTips": "Delete the %s selected item(s)? This cannot be undone.",
+    "batchDeleteNoSelection": "Select rows to delete first",
+    "batchDeleteResult": "已删除 %s 条 item(s) deleted"
+  },
+  "demo": {
+    "user": {
+      "userName": "Username",
+      "userNamePlaceholder": "Enter username",
+      "nickName": "Nickname",
+      "nickNamePlaceholder": "Enter nickname",
+      "gender": "Gender",
+      "genderPlaceholder": "Select gender",
+      "male": "Male",
+      "female": "Female",
+      "status": "Status",
+      "statusPlaceholder": "Select status",
+      "enabled": "Enabled",
+      "disabled": "Disabled",
+      "dept": "Department",
+      "deptPlaceholder": "Select department",
+      "role": "Role",
+      "rolePlaceholder": "Select role",
+      "age": "Age",
+      "ageMin": "Min age",
+      "ageMax": "Max age",
+      "phone": "Phone",
+      "phonePlaceholder": "Enter phone number",
+      "email": "Email",
+      "emailPlaceholder": "Enter email",
+      "createTime": "Created at",
+      "createTimeRange": "Created time range",
+      "startTime": "Start date",
+      "endTime": "End date",
+      "advancedSearch": "Advanced Search",
+      "advancedFilterCount": "{count} filter(s) active",
+      "viewTip": "Demo page: view",
+      "editTip": "Demo page: edit",
+      "deleteTips": "Are you sure you want to delete the selected user?",
+      "deleteSuccess": "Deleted successfully"
+    }
+  },
+  "system": {
+    "org": {
+      "title": "Organization",
+      "name": "Dept Name",
+      "namePlaceholder": "Enter dept name",
+      "code": "Dept Code",
+      "codePlaceholder": "Enter dept code",
+      "parentId": "Parent Dept",
+      "parentPlaceholder": "Select parent dept (root for top level)",
+      "rootName": "Root (no parent)",
+      "leader": "Leader",
+      "leaderPlaceholder": "Select leader",
+      "sort": "Sort",
+      "userCount": "Members",
+      "level": "Level",
+      "path": "Path",
+      "transfer": "Transfer Members",
+      "transferTips": "All members (primary and secondary) of the source dept will be transferred to the target dept. Duplicated relations will be merged automatically. Continue?",
+      "fromOrg": "Source Dept",
+      "toOrg": "Target Dept",
+      "toOrgPlaceholder": "Select target dept",
+      "treeTitle": "Org Tree",
+      "currentOrg": "Current Org",
+      "allUsers": "All Users",
+      "noneSelected": "No org selected",
+      "addOrg": "Add",
+      "editOrg": "Edit",
+      "deleteOrg": "Delete",
+      "deleteTips": "Delete this organization? Its sub-orgs and members must be cleared first.",
+      "selectFirstTip": "Select an organization in the tree first",
+      "selectForUserTip": "Select an organization before adding a user"
+    },
+    "user": {
+      "name": "Name",
+      "namePlaceholder": "Enter name",
+      "employeeNo": "Employee No.",
+      "employeeNoPlaceholder": "Enter employee no.",
+      "mobile": "Mobile",
+      "mobilePlaceholder": "Enter mobile number",
+      "email": "Email",
+      "emailPlaceholder": "Enter email",
+      "manager": "Manager",
+      "managerPlaceholder": "Select direct manager",
+      "username": "Account",
+      "usernamePlaceholder": "Enter login account",
+      "password": "Password",
+      "passwordPlaceholder": "Enter initial password (8-32 chars, letters and digits)",
+      "passwordEditPlaceholder": "Leave blank to keep current password",
+      "dept": "Department",
+      "deptPlaceholder": "Select department",
+      "primaryOrg": "Primary Dept",
+      "primaryOrgPlaceholder": "Select primary dept",
+      "secondaryOrgs": "Secondary Depts",
+      "secondaryOrgsPlaceholder": "Select secondary depts (multiple)",
+      "role": "Roles",
+      "rolePlaceholder": "Select roles (multiple)",
+      "createTime": "Created at",
+      "resetPassword": "Reset Password",
+      "resetPasswordTips": "Enter the new password for this account (8-32 chars, letters and digits)",
+      "leave": "Leave",
+      "leaveTips": "The user and account will be disabled and dept relations removed. Historical data is kept. Continue?",
+      "leaveSuccess": "Leave processed",
+      "noOrg": "No dept assigned",
+      "orgRole": "Role in Org",
+      "orgRoleOrgLeader": "Org Manager",
+      "orgRoleMember": "Member",
+      "orgRolePlaceholder": "Select the role in the selected organization",
+      "orgRoleTips": "Manager: also becomes the org leader; Member: reports to the org leader by default",
+      "orgLeaderTag": "Manager",
+      "orgMemberTag": "Member",
+      "deleteTips": "Delete this user? The login account, org binding and roles will be removed permanently."
+    },
+    "role": {
+      "name": "Role Name",
+      "namePlaceholder": "Enter role name",
+      "code": "Role Code",
+      "codePlaceholder": "Enter role code",
+      "type": "Type",
+      "builtin": "Built-in",
+      "custom": "Custom",
+      "dataScope": "Data Scope",
+      "dataScopePlaceholder": "Select data scope",
+      "scopeAll": "All data",
+      "scopeOrgAndChildren": "Org & children",
+      "scopeOrgOnly": "Own org only",
+      "scopeSelf": "Self only",
+      "scopeSelfAndSubordinates": "Self & direct reports",
+      "scopeCustom": "Custom depts",
+      "customOrgIds": "Custom Dept Scope",
+      "customOrgIdsPlaceholder": "Select custom depts (multiple)",
+      "remark": "Remark",
+      "remarkPlaceholder": "Enter remark",
+      "userCount": "Users",
+      "assign": "Assign Permissions",
+      "menuPermission": "Menu Permissions",
+      "apiPermission": "API Permissions",
+      "dataPermission": "Data Permissions",
+      "builtinRoleDeleteTips": "Built-in roles cannot be deleted",
+      "permGroup": {
+        "module": "Modules",
+        "topic": "Topics",
+        "project": "Projects",
+        "task": "Tasks",
+        "doc": "Docs",
+        "dict": "Dictionary",
+        "system": "System",
+        "log": "Logs",
+        "menu": "Menu",
+        "data": "Data",
+        "other": "Other"
+      },
+      "permGroupAll": "All",
+      "permGroupNone": "Clear",
+      "permSelected": "{n} selected"
+    },
+    "dict": {
+      "title": "Basic Data",
+      "code": "Dict Code",
+      "codePlaceholder": "Enter dict code (lower snake case)",
+      "name": "Dict Name",
+      "namePlaceholder": "Enter dict name",
+      "description": "Description",
+      "descriptionPlaceholder": "Enter description",
+      "fieldCount": "Fields",
+      "itemCount": "Items",
+      "builtin": "Built-in",
+      "custom": "Custom",
+      "builtinDeleteTips": "Built-in dicts cannot be deleted",
+      "enabledItemDeleteTips": "Please disable or delete all enabled items first",
+      "fieldManage": "Fields",
+      "itemManage": "Items",
+      "fieldCode": "Field Code",
+      "fieldCodePlaceholder": "Enter field code (lower snake case)",
+      "fieldName": "Field Name",
+      "fieldNamePlaceholder": "Enter field name",
+      "fieldType": "Field Type",
+      "fieldTypePlaceholder": "Select field type",
+      "typeString": "String",
+      "typeEnum": "Enum",
+      "isRequired": "Required",
+      "isUnique": "Unique",
+      "options": "Options",
+      "optionsPlaceholder": "Select options (enum only)",
+      "defaultValue": "Default Value",
+      "defaultValuePlaceholder": "Enter default value",
+      "sort": "Sort",
+      "systemFieldTips": "System fields cannot be edited",
+      "fieldStatusTips": "Disabled fields are hidden in forms and skipped in validation; history is kept",
+      "itemCode": "Item Code",
+      "itemCodePlaceholder": "Enter item code (e.g. IN_PROGRESS)",
+      "itemName": "Display Name",
+      "itemNamePlaceholder": "Enter display name",
+      "moveUp": "Move up",
+      "moveDown": "Move down",
+      "deleteItemTips": "Make sure this code is not referenced by business tables. Delete?",
+      "emptyFields": "No custom fields defined; only code and name are required",
+      "extValuePlaceholder": "Enter value"
+    },
+    "task": {
+      "title": "Task Title",
+      "titlePlaceholder": "Enter task title",
+      "desc": "Description",
+      "descPlaceholder": "Enter description",
+      "belong": "Belongs To",
+      "belongPlaceholder": "Select belong (empty = ad-hoc task)",
+      "belongNone": "None (ad-hoc task)",
+      "belongProject": "Project",
+      "belongModule": "Module",
+      "belongTopic": "Topic",
+      "subsystem": "Subsystem",
+      "subsystemPlaceholder": "Select subsystem (project tasks only)",
+      "assignee": "Assignee",
+      "assigneePlaceholder": "Select assignee",
+      "priority": "Priority",
+      "priorityPlaceholder": "Select priority",
+      "priorityHigh": "High",
+      "priorityMedium": "Medium",
+      "priorityLow": "Low",
+      "deadline": "Deadline Month",
+      "deadlinePlaceholder": "Select deadline month",
+      "hours": "Est. Hours",
+      "week": "Plan Week",
+      "weekPlaceholder": "Select week of month",
+      "weekLabel": "Week {n}",
+      "planDate": "Plan Date",
+      "status": "Status",
+      "statusPlaceholder": "Select status",
+      "statusTodo": "Todo",
+      "statusDoing": "In Progress",
+      "statusDone": "Done",
+      "statusBlocked": "Blocked",
+      "group": "Group",
+      "groupPlaceholder": "Select or enter group",
+      "parent": "Parent Task",
+      "parentPlaceholder": "Select parent (same belong only)",
+      "parentInheritTips": "Subtask inherits belong and subsystem from parent",
+      "childTask": "Add Subtask",
+      "childBadge": "Subtask",
+      "deleteCascadedTips": "This task has {count} subtask(s) which will also be deleted. Continue?",
+      "deleteCascadedSuccess": "Deleted task and {count} subtask(s)",
+      "listView": "List View",
+      "kanbanView": "Kanban View",
+      "yearMonth": "Year-Month",
+      "groupDimensions": "Group By",
+      "groupDimensionsPlaceholder": "Select dimensions (cross columns when multiple)",
+      "dimensionFilter": "Dimension Filter",
+      "clearFilters": "Clear filters",
+      "noGroupDimensions": "Keep at least one dimension",
+      "dimensionStatus": "Status",
+      "dimensionPriority": "Priority",
+      "dimensionAssignee": "Assignee",
+      "dimensionGroup": "Group",
+      "dimensionDeadline": "Deadline",
+      "dimensionSubsystem": "Subsystem",
+      "hoursEditPlaceholder": "Enter est. hours",
+      "noPlanTime": "Not planned",
+      "orphanChild": "↳ Subtask · Parent: {parent}",
+      "dragTip": "Drag cards to change the main dimension (first selected)",
+      "readOnlyHint": "Multi-select allowed to build cross columns",
+      "countTotal": "{count} task(s)",
+      "planDatePlaceholder": "Select plan date",
+      "swimlaneNone": "No lanes (status only)",
+      "emptyColumnTip": "No tasks",
+      "kanbanScopeAll": "All tasks",
+      "kanbanScopeMine": "Only tasks assigned to me",
+      "contentFilter": "Content Filter",
+      "filterAll": "· All",
+      "filterHint": "Filter by dimension values, e.g. assignee, deadline month",
+      "filteredRemaining": "Filtered, {count} tasks remaining",
+      "readOnlyTip": "Read-only role: you can view tasks but cannot drag cards or edit hours",
+      "changedToast": "Changed to \"{value}\"",
+      "hoursUpdated": "Hours updated",
+      "childCountTip": "Contains {count} subtasks"
+    },
+    "module": {
+      "title": "Module Name",
+      "titlePlaceholder": "Enter module name",
+      "product": "Product",
+      "productPlaceholder": "Select product",
+      "category": "Category",
+      "categoryPlaceholder": "Select category",
+      "dept": "Department",
+      "deptPlaceholder": "Select department",
+      "team": "Team",
+      "teamPlaceholder": "Select team",
+      "owner": "Owner",
+      "ownerPlaceholder": "Select owner",
+      "rd": "RD Leaders",
+      "rdPlaceholder": "Select RD leaders (multiple)",
+      "test": "Test Leader",
+      "testPlaceholder": "Select test leader",
+      "cost": "Cost Object",
+      "costPlaceholder": "Enter cost object",
+      "status": "Status",
+      "statusPlaceholder": "Select status",
+      "desc": "Description",
+      "descPlaceholder": "Enter description",
+      "todo": "Pending",
+      "todoScopeTip": "Pending scope: status ≠ Done, including tasks of attached projects",
+      "readOnlyTip": "Read-only role: view modules only, no create/edit/delete/import/export",
+      "deleteCascadedTips": "{tasks} task(s) and {docs} doc(s) under this module will be deleted, project attachments will be cleared. Continue?",
+      "importButton": "Import",
+      "exportButton": "Export",
+      "importResult": "Import finished: {created} created, {skipped} skipped (missing name or duplicate)",
+      "statTodo": "Pending Tasks",
+      "statTotal": "Total Tasks",
+      "statDone": "Done Tasks",
+      "statRate": "Completion",
+      "statDocs": "Docs",
+      "tabInfo": "Info",
+      "tabKanban": "Board",
+      "tabMembers": "Members",
+      "tabDocs": "Docs",
+      "tabLogs": "Logs",
+      "belongProjects": "Attached Projects",
+      "memberName": "Member",
+      "memberRoles": "Roles",
+      "noMembers": "No members (derived from owner/RD/test/stakeholders and task assignees)",
+      "docsTip": "Only docs of this module; use Doc Center for cross-object search",
+      "noDocs": "No docs",
+      "logTime": "Time",
+      "logOperator": "Operator",
+      "logAction": "Action",
+      "logDetail": "Detail",
+      "noLogs": "No logs"
+    },
+    "topic": {
+      "title": "Topic Name",
+      "titlePlaceholder": "Enter topic name",
+      "dept": "Department",
+      "deptPlaceholder": "Select department",
+      "team": "Team",
+      "teamPlaceholder": "Select team",
+      "owner": "Owner",
+      "ownerPlaceholder": "Select owner",
+      "rd": "RD Leaders",
+      "rdPlaceholder": "Select RD leaders (multiple)",
+      "test": "Test Leader",
+      "testPlaceholder": "Select test leader",
+      "cost": "Cost Object",
+      "costPlaceholder": "Enter cost object",
+      "status": "Status",
+      "statusPlaceholder": "Select status",
+      "desc": "Description",
+      "descPlaceholder": "Enter description",
+      "todo": "Pending",
+      "todoScopeTip": "Pending scope: status ≠ Done, direct tasks only",
+      "readOnlyTip": "Read-only role: view topics only, no create/edit/delete/import/export",
+      "deleteCascadedTips": "{tasks} task(s) and {docs} doc(s) under this topic will be deleted. Continue?",
+      "importButton": "Import",
+      "exportButton": "Export",
+      "importResult": "Import finished: {created} created, {skipped} skipped (missing name or duplicate)",
+      "statTodo": "Pending Tasks",
+      "statTotal": "Total Tasks",
+      "statDone": "Done Tasks",
+      "statRate": "Completion",
+      "statDocs": "Docs",
+      "tabInfo": "Info",
+      "tabKanban": "Board",
+      "tabMembers": "Members",
+      "tabDocs": "Docs",
+      "tabLogs": "Logs",
+      "memberName": "Member",
+      "memberRoles": "Roles",
+      "noMembers": "No members (derived from owner/RD/test leaders)",
+      "docsTip": "Only docs of this topic; use Doc Center for cross-object search",
+      "noDocs": "No docs",
+      "logTime": "Time",
+      "logOperator": "Operator",
+      "logAction": "Action",
+      "logDetail": "Detail",
+      "noLogs": "No logs"
+    },
+    "doc": {
+      "title": "Doc Title",
+      "titlePlaceholder": "Enter doc title",
+      "viewTitle": "Doc Preview",
+      "belong": "Belong",
+      "belongPlaceholder": "Select belong (project/module/topic)",
+      "belongRequired": "Select a belong (project, module or topic)",
+      "summary": "Summary",
+      "updatedBy": "Updated By",
+      "updatedAt": "Updated At",
+      "wordCount": "Words",
+      "searchPlaceholder": "Enter doc title (cross-object search)",
+      "centerTip": "Docs are stored in Markdown and must belong to a project, module or topic",
+      "readOnlyPreview": "Read-only preview",
+      "contentPlaceholder": "Enter content (Markdown supported)",
+      "emptyContent": "(empty)",
+      "editMode": "Edit",
+      "previewMode": "Preview",
+      "mdBold": "Bold",
+      "mdItalic": "Italic",
+      "mdHeading": "Heading {level}",
+      "mdList": "Bullet list",
+      "mdOrderedList": "Numbered list",
+      "mdTaskList": "Task list",
+      "mdQuote": "Quote",
+      "mdTable": "Table",
+      "mdCode": "Code block",
+      "mdDivider": "Divider",
+      "mdLink": "Link",
+      "mdLinkText": "link text"
+    },
+    "project": {
+      "title": "Project Name",
+      "titlePlaceholder": "Enter project name",
+      "searchPlaceholder": "Enter project name or cost code",
+      "cost": "Cost Object",
+      "costPlaceholder": "Enter cost object (Daka code)",
+      "level": "Level",
+      "levelPlaceholder": "Select level",
+      "product": "Product",
+      "productPlaceholder": "Select product",
+      "productLine": "Product Line",
+      "productLinePlaceholder": "Enter product line",
+      "dept": "Dept",
+      "deptPlaceholder": "Select dept",
+      "team": "Team",
+      "teamPlaceholder": "Select team",
+      "sale": "Sales Owner",
+      "salePlaceholder": "Select sales owner",
+      "pm": "Project Manager",
+      "pmPlaceholder": "Select project manager",
+      "owner": "Project Owner",
+      "ownerPlaceholder": "Select project owner",
+      "rd": "R&D Owner",
+      "rdPlaceholder": "Select R&D owner",
+      "test": "Test Owner",
+      "testPlaceholder": "Select test owner",
+      "status": "Project Status",
+      "statusPlaceholder": "Select project status",
+      "budget": "Budget",
+      "budgetPlaceholder": "Enter budget (10k CNY)",
+      "startDate": "Start Date",
+      "startDatePlaceholder": "Select start date",
+      "endDate": "End Date",
+      "endDatePlaceholder": "Select end date",
+      "dateRange": "Duration",
+      "stakeholders": "Stakeholders",
+      "stakeholdersPlaceholder": "Select stakeholders",
+      "belong": "Linked Module/Topic",
+      "belongPlaceholder": "Select a module or topic",
+      "belongLabel": "Linked",
+      "belongNone": "None",
+      "belongModule": "Module",
+      "belongTopic": "Topic",
+      "desc": "Description",
+      "descPlaceholder": "Enter project description",
+      "addProject": "Add Project",
+      "addSubsystem": "Add Subsystem",
+      "todo": "Todo",
+      "taskCount": "Tasks",
+      "todoScopeTip": "Todo = status ≠ Done, including tasks of all subsystems",
+      "readOnlyTip": "Read-only role: you can view projects but cannot create/edit/delete/import/export",
+      "deleteCascadedTips": "{subsystems} subsystem(s), {tasks} task(s) and {docs} doc(s) under this project will be deleted. Continue?",
+      "importButton": "Import",
+      "exportButton": "Export",
+      "importResult": "Imported: {created} created, {skipped} skipped (missing name or duplicate)",
+      "statTodo": "Todo",
+      "statTotal": "Total Tasks",
+      "statDone": "Done Tasks",
+      "statRate": "Completion",
+      "statDocs": "Docs",
+      "statSubsystems": "Subsystems",
+      "tabInfo": "Basic Info",
+      "tabSubsystems": "Subsystems",
+      "tabKanban": "Kanban",
+      "tabMembers": "Members",
+      "tabDocs": "Docs",
+      "tabLogs": "Logs",
+      "subsystemBadge": "Sub",
+      "subsystemCount": "{n} subsystem(s)",
+      "subsystemName": "Subsystem Name",
+      "subsystemNamePlaceholder": "Enter subsystem name",
+      "subsystemProject": "Project",
+      "subsystemProjectPlaceholder": "Select project",
+      "subsystemOwner": "Owner",
+      "subsystemOwnerPlaceholder": "Select owner",
+      "subsystemSort": "Sort",
+      "subsystemSortPlaceholder": "Smaller comes first",
+      "subsystemDeleteTips": "{tasks} task(s) will be unlinked from this subsystem (tasks are kept). Continue?",
+      "subsystemUnassigned": "Tasks without subsystem: {tasks} (todo {todo})",
+      "noSubsystems": "No subsystems",
+      "memberName": "Member",
+      "memberRoles": "Roles",
+      "noMembers": "No members (derived from role fields and task assignees)",
+      "docsTip": "Only docs of this project are listed; use Doc Center for cross-object search",
+      "noDocs": "No docs",
+      "logTime": "Time",
+      "logOperator": "Operator",
+      "logAction": "Action",
+      "logDetail": "Detail",
+      "noLogs": "No logs"
+    },
+    "userCenter": {
+      "title": "User Center",
+      "profileTip": "Account and profile info are maintained by admins in User Management",
+      "changeAvatar": "Change Avatar",
+      "resetAvatar": "Reset",
+      "avatarUpdated": "Avatar updated",
+      "avatarReset": "Default avatar restored",
+      "avatarTypeError": "Please choose an image file (png / jpg / webp / gif)",
+      "avatarTooLarge": "Image is too large; please choose a file under 2MB",
+      "account": "Account",
+      "employeeNo": "Employee No.",
+      "dept": "Department",
+      "mobile": "Mobile",
+      "email": "Email",
+      "role": "Roles",
+      "changePassword": "Change Password",
+      "passwordRule": "New password must be at least 8 characters and contain both letters and digits",
+      "oldPassword": "Current Password",
+      "oldPasswordPlaceholder": "Enter current password",
+      "newPassword": "New Password",
+      "newPasswordPlaceholder": "Enter new password (min 8 chars, letters + digits)",
+      "confirmPassword": "Confirm Password",
+      "confirmPasswordPlaceholder": "Enter the new password again",
+      "passwordMismatch": "The two new passwords do not match",
+      "passwordChanged": "Password changed successfully"
+    },
+    "log": {
+      "title": "Operation Logs",
+      "tip": "System-wide operation trail (all users, admin only)",
+      "readOnlyTip": "No permission to view operation logs (admin only)",
+      "time": "Time",
+      "operator": "Operator",
+      "module": "Module",
+      "moduleMenu": "Menu order",
+      "moduleTopic": "Topic",
+      "target": "Target",
+      "action": "Action",
+      "detail": "Detail",
+      "moduleAuth": "Auth"
+    }
+  },
+  "search": {
+    "placeholder": "Search page",
+    "historyTitle": "Search history",
+    "switchKeydown": "Navigate",
+    "selectKeydown": "Select",
+    "exitKeydown": "Close"
+  },
+  "setting": {
+    "menuType": {
+      "title": "Menu Layout",
+      "list": [
+        "Vertical",
+        "Horizontal",
+        "Mixed",
+        "Dual"
+      ]
+    },
+    "theme": {
+      "title": "Theme Style",
+      "list": [
+        "Light",
+        "Dark",
+        "System"
+      ]
+    },
+    "menu": {
+      "title": "Menu Style"
+    },
+    "color": {
+      "title": "Theme Color"
+    },
+    "box": {
+      "title": "Box Style",
+      "list": [
+        "Border",
+        "Shadow"
+      ]
+    },
+    "container": {
+      "title": "Container Width",
+      "list": [
+        "Full",
+        "Boxed"
+      ]
+    },
+    "basics": {
+      "title": "Basic Config",
+      "list": {
+        "multiTab": "Show page tabs",
+        "accordion": "Sidebar opens accordion",
+        "collapseSidebar": "Show sidebar button",
+        "reloadPage": "Show reload page button",
+        "fastEnter": "Show fast enter",
+        "breadcrumb": "Show crumb navigation",
+        "language": "Show multilingual selection",
+        "progressBar": "Show top progress bar",
+        "weakMode": "Color Weakness Mode",
+        "watermark": "Global watermark",
+        "menuWidth": "Menu width",
+        "tabStyle": "Tab style",
+        "pageTransition": "Page animation",
+        "borderRadius": "Custom radius"
+      }
+    },
+    "tabStyle": {
+      "default": "Default",
+      "card": "Card",
+      "google": "Chrome"
+    },
+    "transition": {
+      "list": {
+        "none": "None",
+        "fade": "Fade",
+        "slideLeft": "Slide Left",
+        "slideBottom": "Slide Bottom",
+        "slideTop": "Slide Top"
+      }
+    },
+    "actions": {
+      "resetConfig": "Reset Config",
+      "copyConfig": "Copy Config",
+      "copySuccess": "Configuration copied to clipboard, paste it into src/config/setting.ts file",
+      "copyFailed": "Copy failed, please try again",
+      "resetFailed": "Reset failed, please refresh the page and try again"
+    }
+  },
+  "notice": {
+    "title": "Notice",
+    "btnRead": "Mark as read",
+    "bar": [
+      "Notice",
+      "Message",
+      "Todo"
+    ],
+    "text": [
+      "No"
+    ],
+    "viewAll": "View all"
+  },
+  "worktab": {
+    "btn": {
+      "refresh": "Refresh",
+      "fixed": "Fixed",
+      "unfixed": "Unfixed",
+      "closeLeft": "Close left",
+      "closeRight": "Close right",
+      "closeOther": "Close other",
+      "closeAll": "Close all"
+    }
+  },
+  "login": {
+    "leftView": {
+      "title": "A unified hub for modules, topics and projects",
+      "subTitle": "Single source · Plan-driven · Clear authority · Fully auditable"
+    },
+    "brand": {
+      "title": "A unified hub for modules, topics and projects",
+      "subTitle": "Single source · Plan-driven · Clear authority · Fully auditable",
+      "features": [
+        {
+          "title": "Layered Management",
+          "desc": "Unified lifecycle of modules, topics and projects"
+        },
+        {
+          "title": "Plan-Driven",
+          "desc": "Weekly plans linked with task pool at a glance"
+        },
+        {
+          "title": "Clear Authority",
+          "desc": "Role-based access along the organization tree"
+        },
+        {
+          "title": "Fully Auditable",
+          "desc": "All key operations logged and traceable"
+        }
+      ]
+    },
+    "title": "Welcome",
+    "subTitle": "Enter your account and password to login to Daily Management Platform",
+    "roles": {
+      "super": "Super Admin",
+      "admin": "Dept Admin",
+      "user": "Employee"
+    },
+    "placeholder": {
+      "username": "Please enter your account",
+      "password": "Please enter your password",
+      "slider": "Please slide to verify"
+    },
+    "sliderText": "Please slide to verify",
+    "sliderSuccessText": "Verification successful",
+    "rememberPwd": "Remember password",
+    "forgetPwd": "Forgot password",
+    "btnText": "Login",
+    "noAccount": "No account yet?",
+    "register": "Register",
+    "success": {
+      "title": "Login successful",
+      "message": "Welcome back"
+    }
+  },
+  "forgetPassword": {
+    "title": "Forgot password?",
+    "subTitle": "Enter your email to reset your password",
+    "placeholder": "Please enter your email",
+    "submitBtnText": "Submit",
+    "backBtnText": "Back"
+  },
+  "register": {
+    "title": "Create account",
+    "subTitle": "Welcome to join us, please fill in the following information to complete the registration",
+    "placeholder": {
+      "username": "Please enter your account",
+      "password": "Please enter your password",
+      "confirmPassword": "Please enter your password again"
+    },
+    "rule": {
+      "confirmPasswordRequired": "Please enter your password again",
+      "passwordMismatch": "The two passwords are inconsistent!",
+      "usernameLength": "The length is 3 to 20 characters",
+      "passwordLength": "The password length cannot be less than 6 digits",
+      "agreementRequired": "Please agree to the privacy policy"
+    },
+    "agreeText": "I agree",
+    "privacyPolicy": "Privacy policy",
+    "submitBtnText": "Register",
+    "hasAccount": "Already have an account?",
+    "toLogin": "To login"
+  },
+  "lockScreen": {
+    "pwdError": "Password error",
+    "lock": {
+      "inputPlaceholder": "Please input lock screen password",
+      "btnText": "Lock"
+    },
+    "unlock": {
+      "inputPlaceholder": "Please input unlock password",
+      "btnText": "Unlock",
+      "backBtnText": "Back to login"
+    }
+  },
+  "greeting": {
+    "dawn": "Good morning!",
+    "morning": "Good morning!",
+    "afternoon": "Good afternoon!",
+    "evening": "Good evening!"
+  },
+  "exceptionPage": {
+    "gohome": "Go Home",
+    "403": "Sorry, you do not have permission to access this page",
+    "404": "Sorry, the page you are trying to access does not exist",
+    "500": "Sorry, there was an error on the server"
+  },
+  "menus": {
+    "login": {
+      "title": "Login"
+    },
+    "register": {
+      "title": "Register"
+    },
+    "forgetPassword": {
+      "title": "Forget Password"
+    },
+    "outside": {
+      "title": "Outside"
+    },
+    "result": {
+      "title": "Result Page",
+      "success": "Success",
+      "fail": "Fail"
+    },
+    "demo": {
+      "title": "Demo",
+      "user": "User Management"
+    },
+    "org": {
+      "index": "Organization"
+    },
+    "userCenter": {
+      "title": "User Center"
+    },
+    "user": {
+      "index": "Users"
+    },
+    "role": {
+      "index": "Roles"
+    },
+    "systemConfig": {
+      "title": "System Configuration"
+    },
+    "exception": {
+      "title": "Exception",
+      "forbidden": "403",
+      "notFound": "404",
+      "serverError": "500"
+    },
+    "help": {
+      "title": "Help Center",
+      "document": "Document",
+      "liteVersion": "Lite Version",
+      "oldVersion": "v2.6.1 Version"
+    },
+    "dict": {
+      "index": "Basic Data"
+    },
+    "task": {
+      "title": "Tasks"
+    },
+    "module": {
+      "title": "Modules",
+      "detail": "Module Detail"
+    },
+    "topic": {
+      "title": "Topics",
+      "detail": "Topic Detail"
+    },
+    "project": {
+      "title": "Projects",
+      "detail": "Project Detail"
+    },
+    "doc": {
+      "title": "Doc Center"
+    },
+    "log": {
+      "title": "Operation Logs"
+    }
+  },
+  "table": {
+    "form": {
+      "reset": "Reset",
+      "submit": "Submit"
+    },
+    "searchBar": {
+      "reset": "Reset",
+      "search": "Search",
+      "expand": "Expand",
+      "collapse": "Collapse",
+      "searchInputPlaceholder": "Please enter",
+      "searchSelectPlaceholder": "Please select"
+    },
+    "selection": "Select",
+    "sizeOptions": {
+      "small": "Compact",
+      "default": "Default",
+      "large": "Loose"
+    },
+    "column": {
+      "selection": "Select",
+      "expand": "Expand",
+      "index": "Index"
+    },
+    "zebra": "Zebra",
+    "border": "Border",
+    "headerBackground": "Header BG"
+  },
+  "aiAssistant": {
+    "name": "Management Helper",
+    "online": "Online",
+    "offline": "Offline",
+    "inputPlaceholder": "Type a message",
+    "send": "Send",
+    "newSession": "New chat",
+    "welcome": "Hello! I'm the Management Helper. How can I help you?",
+    "streamError": "AI service call failed, please try again later"
+  }
+}

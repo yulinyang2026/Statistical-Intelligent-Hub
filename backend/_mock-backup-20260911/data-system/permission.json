@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "code": "menu:org",
+    "name": "组织机构管理",
+    "type": "menu",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 2,
+    "code": "menu:user",
+    "name": "用户管理",
+    "type": "menu",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 3,
+    "code": "menu:role",
+    "name": "角色管理",
+    "type": "menu",
+    "parentId": 0,
+    "sort": 3,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 4,
+    "code": "menu:demo",
+    "name": "演示页面",
+    "type": "menu",
+    "parentId": 0,
+    "sort": 4,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 5,
+    "code": "menu:help",
+    "name": "帮助中心",
+    "type": "menu",
+    "parentId": 0,
+    "sort": 5,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 6,
+    "code": "system:org:list",
+    "name": "部门查询",
+    "type": "api",
+    "parentId": 1,
+    "sort": 1,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 7,
+    "code": "system:org:create",
+    "name": "部门新增",
+    "type": "api",
+    "parentId": 1,
+    "sort": 2,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 8,
+    "code": "system:org:update",
+    "name": "部门修改",
+    "type": "api",
+    "parentId": 1,
+    "sort": 3,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 9,
+    "code": "system:org:delete",
+    "name": "部门删除",
+    "type": "api",
+    "parentId": 1,
+    "sort": 4,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 10,
+    "code": "system:org:transfer",
+    "name": "人员转移",
+    "type": "api",
+    "parentId": 1,
+    "sort": 5,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 11,
+    "code": "system:user:list",
+    "name": "用户查询",
+    "type": "api",
+    "parentId": 2,
+    "sort": 1,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 12,
+    "code": "system:user:create",
+    "name": "用户新增",
+    "type": "api",
+    "parentId": 2,
+    "sort": 2,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 13,
+    "code": "system:user:update",
+    "name": "用户修改",
+    "type": "api",
+    "parentId": 2,
+    "sort": 3,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 14,
+    "code": "system:user:reset-password",
+    "name": "重置密码",
+    "type": "api",
+    "parentId": 2,
+    "sort": 4,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 15,
+    "code": "system:user:status",
+    "name": "用户启停",
+    "type": "api",
+    "parentId": 2,
+    "sort": 5,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 16,
+    "code": "system:user:leave",
+    "name": "离职处理",
+    "type": "api",
+    "parentId": 2,
+    "sort": 6,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 17,
+    "code": "system:role:list",
+    "name": "角色查询",
+    "type": "api",
+    "parentId": 3,
+    "sort": 1,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 18,
+    "code": "system:role:create",
+    "name": "角色新增",
+    "type": "api",
+    "parentId": 3,
+    "sort": 2,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 19,
+    "code": "system:role:update",
+    "name": "角色修改",
+    "type": "api",
+    "parentId": 3,
+    "sort": 3,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 20,
+    "code": "system:role:delete",
+    "name": "角色删除",
+    "type": "api",
+    "parentId": 3,
+    "sort": 4,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 21,
+    "code": "system:role:assign",
+    "name": "角色授权",
+    "type": "api",
+    "parentId": 3,
+    "sort": 5,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 22,
+    "code": "data:org:export",
+    "name": "部门数据导出",
+    "type": "data",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 23,
+    "code": "data:user:export",
+    "name": "用户数据导出",
+    "type": "data",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 24,
+    "code": "task:view",
+    "name": "任务查看",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 25,
+    "code": "task:view-all",
+    "name": "查看全部任务",
+    "type": "api",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 26,
+    "code": "task:create",
+    "name": "新增任务",
+    "type": "api",
+    "parentId": 0,
+    "sort": 3,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 27,
+    "code": "task:edit",
+    "name": "编辑任务",
+    "type": "api",
+    "parentId": 0,
+    "sort": 4,
+    "createTime": "2025-01-01 08:00:00"
+  },
+  {
+    "id": 28,
+    "code": "module:view",
+    "name": "查看模块",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 29,
+    "code": "module:edit",
+    "name": "模块新增/编辑/删除/导入导出",
+    "type": "api",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 30,
+    "code": "doc:view",
+    "name": "查看文档",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 31,
+    "code": "doc:edit",
+    "name": "新增/编辑文档",
+    "type": "api",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 32,
+    "code": "doc:delete",
+    "name": "删除文档",
+    "type": "api",
+    "parentId": 0,
+    "sort": 3,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 33,
+    "code": "project:view",
+    "name": "查看项目与子系统",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 34,
+    "code": "project:edit",
+    "name": "项目/子系统增删改与导入导出",
+    "type": "api",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 35,
+    "code": "dict:view",
+    "name": "查看基础数据",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 36,
+    "code": "dict:edit",
+    "name": "基础数据增删改（字典/字段/枚举项）",
+    "type": "api",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 37,
+    "code": "task:delete",
+    "name": "删除任务",
+    "type": "api",
+    "parentId": 0,
+    "sort": 3,
+    "createTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": 38,
+    "code": "module:view-all",
+    "name": "查看全部模块（数据范围豁免）",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 39,
+    "code": "log:view",
+    "name": "查看系统操作日志",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 40,
+    "code": "topic:view",
+    "name": "查看专题",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 41,
+    "code": "topic:edit",
+    "name": "专题新增/编辑/删除/导入导出",
+    "type": "api",
+    "parentId": 0,
+    "sort": 2,
+    "createTime": "2026-09-11 08:00:00"
+  },
+  {
+    "id": 42,
+    "code": "topic:view-all",
+    "name": "查看全部专题（数据范围豁免）",
+    "type": "api",
+    "parentId": 0,
+    "sort": 1,
+    "createTime": "2026-09-11 08:00:00"
+  }
+]

@@ -1,0 +1,40 @@
+[ {
+  "id" : 1,
+  "name" : "超级管理员",
+  "code" : "R_SUPER",
+  "type" : 1,
+  "dataScope" : 1,
+  "remark" : "系统内置角色，拥有全部权限",
+  "status" : 1,
+  "createTime" : "2025-01-01 08:00:00",
+  "updateTime" : "2025-01-01 08:00:00"
+}, {
+  "id" : 2,
+  "name" : "普通员工",
+  "code" : "R_EMP",
+  "type" : 1,
+  "dataScope" : 4,
+  "remark" : "系统内置角色，仅本人数据",
+  "status" : 1,
+  "createTime" : "2025-01-01 08:00:00",
+  "updateTime" : "2025-01-01 08:00:00"
+}, {
+  "id" : 3,
+  "name" : "部门管理员",
+  "code" : "R_ORG_ADMIN",
+  "type" : 2,
+  "dataScope" : 2,
+  "remark" : "管理本组织及下级数据",
+  "status" : 1,
+  "createTime" : "2025-02-01 08:00:00",
+  "updateTime" : "2025-02-01 08:00:00"
+}, {
+  "id" : 6,
+  "name" : "组长",
+  "code" : "ZZ",
+  "type" : 2,
+  "dataScope" : 2,
+  "status" : 1,
+  "createTime" : "2026-09-11 11:05:51",
+  "updateTime" : "2026-09-11 11:07:36"
+} ]

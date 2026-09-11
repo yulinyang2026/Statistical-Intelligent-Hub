@@ -1,0 +1,22 @@
+[ {
+  "id" : "s1",
+  "projectId" : "p1",
+  "name" : "报表子系统",
+  "owner" : "李磊",
+  "sort" : 1,
+  "createTime" : "2026-09-10 08:00:00",
+  "updateTime" : "2026-09-10 08:00:00"
+}, {
+  "id" : "s2",
+  "projectId" : "p1",
+  "name" : "qwerfdsa",
+  "owner" : "张伟",
+  "product" : "部门统计",
+  "dept" : "研发中心",
+  "team" : "产品规划组",
+  "rd" : "张伟",
+  "pm" : "杨娟",
+  "sort" : 0,
+  "createTime" : "2026-09-10 23:27:37",
+  "updateTime" : "2026-09-11 00:15:19"
+} ]

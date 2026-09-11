@@ -1,0 +1,200 @@
+[ {
+  "id" : 1,
+  "name" : "系统管理员",
+  "employeeNo" : "EMP001",
+  "mobile" : "13800000001",
+  "email" : "admin@bsp.com",
+  "avatar" : "data:image/jpeg;base64,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",
+  "status" : 1,
+  "createTime" : "2025-01-01 08:00:00",
+  "updateTime" : "2026-09-10 23:20:14"
+}, {
+  "id" : 2,
+  "name" : "张伟",
+  "employeeNo" : "EMP002",
+  "mobile" : "13800000002",
+  "email" : "zhangwei@bsp.com",
+  "managerUserId" : 1,
+  "status" : 1,
+  "createTime" : "2025-01-02 08:00:00",
+  "updateTime" : "2025-01-02 08:00:00"
+}, {
+  "id" : 3,
+  "name" : "王芳",
+  "employeeNo" : "EMP003",
+  "mobile" : "13800000003",
+  "email" : "wangfang@bsp.com",
+  "managerUserId" : 2,
+  "status" : 1,
+  "createTime" : "2025-01-03 08:00:00",
+  "updateTime" : "2025-01-03 08:00:00"
+}, {
+  "id" : 4,
+  "name" : "李磊",
+  "employeeNo" : "EMP004",
+  "mobile" : "13800000004",
+  "email" : "lilei@bsp.com",
+  "managerUserId" : 2,
+  "status" : 1,
+  "createTime" : "2025-01-03 08:30:00",
+  "updateTime" : "2025-01-03 08:30:00"
+}, {
+  "id" : 5,
+  "name" : "赵敏",
+  "employeeNo" : "EMP005",
+  "mobile" : "13800000005",
+  "email" : "zhaomin@bsp.com",
+  "managerUserId" : 2,
+  "status" : 1,
+  "createTime" : "2025-01-03 09:00:00",
+  "updateTime" : "2025-01-03 09:00:00"
+}, {
+  "id" : 6,
+  "name" : "陈静",
+  "employeeNo" : "EMP006",
+  "mobile" : "13800000006",
+  "email" : "chenjing@bsp.com",
+  "managerUserId" : 1,
+  "status" : 1,
+  "createTime" : "2025-01-06 08:00:00",
+  "updateTime" : "2025-01-06 08:00:00"
+}, {
+  "id" : 7,
+  "name" : "刘洋",
+  "employeeNo" : "EMP007",
+  "mobile" : "13800000007",
+  "email" : "liuyang@bsp.com",
+  "managerUserId" : 6,
+  "status" : 1,
+  "createTime" : "2025-01-06 08:30:00",
+  "updateTime" : "2025-01-06 08:30:00"
+}, {
+  "id" : 8,
+  "name" : "杨娟",
+  "employeeNo" : "EMP008",
+  "mobile" : "13800000008",
+  "email" : "yangjuan@bsp.com",
+  "managerUserId" : 6,
+  "status" : 1,
+  "createTime" : "2025-01-06 09:00:00",
+  "updateTime" : "2025-01-06 09:00:00"
+}, {
+  "id" : 9,
+  "name" : "黄军",
+  "employeeNo" : "EMP009",
+  "mobile" : "13800000009",
+  "email" : "huangjun@bsp.com",
+  "managerUserId" : 1,
+  "status" : 1,
+  "createTime" : "2025-01-07 08:00:00",
+  "updateTime" : "2025-01-07 08:00:00"
+}, {
+  "id" : 10,
+  "name" : "周霞",
+  "employeeNo" : "EMP010",
+  "mobile" : "13800000010",
+  "email" : "zhouxia@bsp.com",
+  "managerUserId" : 11,
+  "status" : 1,
+  "createTime" : "2025-01-07 08:30:00",
+  "updateTime" : "2025-01-07 08:30:00"
+}, {
+  "id" : 11,
+  "name" : "吴涛",
+  "employeeNo" : "EMP011",
+  "mobile" : "13800000011",
+  "email" : "wutao@bsp.com",
+  "managerUserId" : 9,
+  "status" : 1,
+  "createTime" : "2025-01-07 09:00:00",
+  "updateTime" : "2025-01-07 09:00:00"
+}, {
+  "id" : 12,
+  "name" : "郑丽华",
+  "employeeNo" : "EMP012",
+  "mobile" : "13800000012",
+  "email" : "zhenglihua@bsp.com",
+  "managerUserId" : 1,
+  "status" : 1,
+  "createTime" : "2025-01-08 08:00:00",
+  "updateTime" : "2025-01-08 08:00:00"
+}, {
+  "id" : 13,
+  "name" : "王强",
+  "employeeNo" : "EMP013",
+  "mobile" : "13800000013",
+  "email" : "wangqiang@bsp.com",
+  "managerUserId" : 3,
+  "status" : 1,
+  "createTime" : "2025-01-09 08:00:00",
+  "updateTime" : "2025-01-09 08:00:00"
+}, {
+  "id" : 14,
+  "name" : "李娜",
+  "employeeNo" : "EMP014",
+  "mobile" : "13800000014",
+  "email" : "lina@bsp.com",
+  "managerUserId" : 3,
+  "status" : 1,
+  "createTime" : "2025-01-09 08:30:00",
+  "updateTime" : "2025-01-09 08:30:00"
+}, {
+  "id" : 15,
+  "name" : "张军",
+  "employeeNo" : "EMP015",
+  "mobile" : "13800000015",
+  "email" : "zhangjun@bsp.com",
+  "managerUserId" : 4,
+  "status" : 1,
+  "createTime" : "2025-01-10 08:00:00",
+  "updateTime" : "2025-01-10 08:00:00"
+}, {
+  "id" : 16,
+  "name" : "王敏",
+  "employeeNo" : "EMP016",
+  "mobile" : "13800000016",
+  "email" : "wangmin@bsp.com",
+  "managerUserId" : 4,
+  "status" : 1,
+  "createTime" : "2025-01-10 08:30:00",
+  "updateTime" : "2026-09-10 23:22:16"
+}, {
+  "id" : 17,
+  "name" : "李杰",
+  "employeeNo" : "EMP017",
+  "mobile" : "13800000017",
+  "email" : "lijie@bsp.com",
+  "managerUserId" : 5,
+  "status" : 1,
+  "createTime" : "2025-01-10 09:00:00",
+  "updateTime" : "2026-09-10 18:35:59"
+}, {
+  "id" : 18,
+  "name" : "赵秀英",
+  "employeeNo" : "EMP018",
+  "mobile" : "13800000018",
+  "email" : "zhaoxiuying@bsp.com",
+  "status" : 0,
+  "createTime" : "2025-01-10 09:30:00",
+  "updateTime" : "2026-09-09 22:58:53"
+}, {
+  "id" : 19,
+  "name" : "陈明",
+  "employeeNo" : "EMP019",
+  "mobile" : "13800000019",
+  "email" : "chenming@bsp.com",
+  "managerUserId" : 12,
+  "status" : 1,
+  "createTime" : "2025-01-11 08:00:00",
+  "updateTime" : "2025-01-11 08:00:00"
+}, {
+  "id" : 20,
+  "name" : "刘芳",
+  "employeeNo" : "EMP020",
+  "mobile" : "13800000020",
+  "email" : "liufang@bsp.com",
+  "managerUserId" : 12,
+  "status" : 1,
+  "createTime" : "2025-01-11 08:30:00",
+  "updateTime" : "2026-09-10 23:22:01"
+} ]

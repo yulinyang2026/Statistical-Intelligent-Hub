@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "roleId": 1,
+    "createTime": "2025-01-01 10:00:00"
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "roleId": 3,
+    "createTime": "2025-01-02 10:00:00"
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "roleId": 5,
+    "createTime": "2025-01-03 10:00:00"
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "roleId": 5,
+    "createTime": "2025-01-04 10:00:00"
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "roleId": 5,
+    "createTime": "2025-01-05 10:00:00"
+  },
+  {
+    "id": 6,
+    "userId": 6,
+    "roleId": 3,
+    "createTime": "2025-01-06 10:00:00"
+  },
+  {
+    "id": 7,
+    "userId": 7,
+    "roleId": 2,
+    "createTime": "2025-01-07 10:00:00"
+  },
+  {
+    "id": 8,
+    "userId": 8,
+    "roleId": 2,
+    "createTime": "2025-01-08 10:00:00"
+  },
+  {
+    "id": 9,
+    "userId": 9,
+    "roleId": 3,
+    "createTime": "2025-01-09 10:00:00"
+  },
+  {
+    "id": 10,
+    "userId": 10,
+    "roleId": 2,
+    "createTime": "2025-01-10 10:00:00"
+  },
+  {
+    "id": 11,
+    "userId": 11,
+    "roleId": 2,
+    "createTime": "2025-01-11 10:00:00"
+  },
+  {
+    "id": 12,
+    "userId": 12,
+    "roleId": 4,
+    "createTime": "2025-01-12 10:00:00"
+  },
+  {
+    "id": 13,
+    "userId": 13,
+    "roleId": 2,
+    "createTime": "2025-01-13 10:00:00"
+  },
+  {
+    "id": 14,
+    "userId": 14,
+    "roleId": 2,
+    "createTime": "2025-01-14 10:00:00"
+  },
+  {
+    "id": 15,
+    "userId": 15,
+    "roleId": 2,
+    "createTime": "2025-01-15 10:00:00"
+  },
+  {
+    "id": 16,
+    "userId": 16,
+    "roleId": 2,
+    "createTime": "2025-01-16 10:00:00"
+  },
+  {
+    "id": 17,
+    "userId": 17,
+    "roleId": 2,
+    "createTime": "2025-01-17 10:00:00"
+  },
+  {
+    "id": 18,
+    "userId": 19,
+    "roleId": 2,
+    "createTime": "2025-01-19 10:00:00"
+  },
+  {
+    "id": 19,
+    "userId": 20,
+    "roleId": 4,
+    "createTime": "2025-01-20 10:00:00"
+  }
+]

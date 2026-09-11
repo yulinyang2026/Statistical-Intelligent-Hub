@@ -1,0 +1,20 @@
+[
+  {
+    "id": "s1",
+    "projectId": "p1",
+    "name": "报表子系统",
+    "owner": "李磊",
+    "sort": 1,
+    "createTime": "2026-09-10 08:00:00",
+    "updateTime": "2026-09-10 08:00:00"
+  },
+  {
+    "id": "s2",
+    "projectId": "p1",
+    "name": "数据接口子系统",
+    "owner": "王强",
+    "sort": 2,
+    "createTime": "2026-09-10 08:00:00",
+    "updateTime": "2026-09-10 08:00:00"
+  }
+]

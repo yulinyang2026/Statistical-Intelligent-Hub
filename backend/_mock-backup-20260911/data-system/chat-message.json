@@ -1,0 +1,22 @@
+[ {
+  "id" : 1,
+  "sessionId" : 1,
+  "userId" : 1,
+  "role" : "user",
+  "content" : "你好",
+  "createTime" : "2026-09-10 01:25:18"
+}, {
+  "id" : 2,
+  "sessionId" : 1,
+  "userId" : 1,
+  "role" : "user",
+  "content" : "？",
+  "createTime" : "2026-09-10 07:44:11"
+}, {
+  "id" : 3,
+  "sessionId" : 1,
+  "userId" : 1,
+  "role" : "user",
+  "content" : "你好",
+  "createTime" : "2026-09-10 08:25:44"
+} ]

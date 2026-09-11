@@ -1,0 +1,625 @@
+[ {
+  "id" : 1,
+  "time" : "2026-09-10 09:02:19",
+  "operator" : "刘洋",
+  "module" : "task",
+  "target" : "task3 首页样式联调",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 进行中"
+}, {
+  "id" : 2,
+  "time" : "2026-09-10 09:02:19",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task4 数据采集接口联调各一件咕咕叫开滦股份记录开户行",
+  "action" : "看板写回·hours",
+  "detail" : "24 → 5"
+}, {
+  "id" : 3,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 平台首页改版",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 进行中"
+}, {
+  "id" : 4,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 5,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task3 首页样式联调",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 已完成"
+}, {
+  "id" : 6,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "统计报表平台(m1)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 7,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 制度梳理专题评审",
+  "action" : "看板写回·status",
+  "detail" : "受阻 → 已完成"
+}, {
+  "id" : 8,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 平台首页改版",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 已完成"
+}, {
+  "id" : 9,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "统计报表平台(m1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 10,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 11,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task3 首页样式联调",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 12,
+  "time" : "2026-09-10 09:06:53",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task5 制度梳理专题评审",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 受阻"
+}, {
+  "id" : 13,
+  "time" : "2026-09-10 09:08:02",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task4 数据采集接口联调各一件咕咕叫开滦股份记录开户行",
+  "action" : "看板写回·hours",
+  "detail" : "5 → 24"
+}, {
+  "id" : 14,
+  "time" : "2026-09-10 09:51:37",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 进行中"
+}, {
+  "id" : 15,
+  "time" : "2026-09-10 09:51:42",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 待处理"
+}, {
+  "id" : 16,
+  "time" : "2026-09-10 09:51:43",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 进行中"
+}, {
+  "id" : 17,
+  "time" : "2026-09-10 09:51:46",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 平台首页改版",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 待处理"
+}, {
+  "id" : 18,
+  "time" : "2026-09-10 09:51:48",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 待处理"
+}, {
+  "id" : 19,
+  "time" : "2026-09-10 10:13:02",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task1 平台首页改版",
+  "action" : "看板写回·status",
+  "detail" : "进行中 → 待处理"
+}, {
+  "id" : 20,
+  "time" : "2026-09-10 10:13:08",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 21,
+  "time" : "2026-09-10 10:13:13",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task2 首页数据看板模块",
+  "action" : "看板写回·status",
+  "detail" : "已完成 → 待处理"
+}, {
+  "id" : 22,
+  "time" : "2026-09-10 13:22:22",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc1 国企名录需求文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 23,
+  "time" : "2026-09-10 17:15:11",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟测试模块(m10)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 24,
+  "time" : "2026-09-10 17:15:11",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 冒烟测试文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 25,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟测试模块(m10)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 26,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 冒烟测试文档",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 27,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟测试模块(m10)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 28,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟测试模块2(m10)",
+  "action" : "编辑",
+  "detail" : "冒烟测试模块 / 张伟 / 非活跃 → 冒烟测试模块2 / 张伟 / 非活跃"
+}, {
+  "id" : 29,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟测试模块2(m10)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 30,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 冒烟测试文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 31,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 冒烟测试文档2",
+  "action" : "编辑",
+  "detail" : "冒烟测试文档 → 冒烟测试文档2（48 字）"
+}, {
+  "id" : 32,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc2 冒烟测试文档2",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 33,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟导入模块(m10)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 34,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "冒烟导入模块(m10)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 35,
+  "time" : "2026-09-10 17:20:28",
+  "operator" : "刘洋",
+  "module" : "doc",
+  "target" : "doc2 员工文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 36,
+  "time" : "2026-09-10 17:36:55",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 天龙八部-外传",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 37,
+  "time" : "2026-09-10 17:36:58",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc4 天龙八部-外传",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 38,
+  "time" : "2026-09-10 17:37:03",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc3 天龙八部-外传",
+  "action" : "删除",
+  "detail" : "—"
+}, {
+  "id" : 39,
+  "time" : "2026-09-10 21:01:34",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "联调验证项目(p3)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 40,
+  "time" : "2026-09-10 21:01:34",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "新增子系统",
+  "detail" : "联调子系统(s3)"
+}, {
+  "id" : 41,
+  "time" : "2026-09-10 21:01:43",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "编辑子系统",
+  "detail" : "联调子系统 → 联调子系统-改(s3)"
+}, {
+  "id" : 42,
+  "time" : "2026-09-10 21:01:43",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "联调验证项目-改名(p3)",
+  "action" : "编辑",
+  "detail" : "联调验证项目 / 张伟 / 在建 → 联调验证项目-改名 / 张伟 / 运维"
+}, {
+  "id" : 43,
+  "time" : "2026-09-10 21:02:05",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "删除子系统",
+  "detail" : "联调子系统-改(s3)（解除任务关联 1 个）"
+}, {
+  "id" : 44,
+  "time" : "2026-09-10 21:02:05",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "联调验证项目-改名(p3)",
+  "action" : "删除",
+  "detail" : "级联删除子系统 0 个、任务 0 个、文档 0 个"
+}, {
+  "id" : 45,
+  "time" : "2026-09-10 22:02:46",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（5 项）"
+}, {
+  "id" : 46,
+  "time" : "2026-09-10 22:02:46",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（2 项）"
+}, {
+  "id" : 47,
+  "time" : "2026-09-10 22:03:01",
+  "operator" : "系统管理员",
+  "module" : "menu",
+  "target" : "左侧菜单(menu-order)",
+  "action" : "拖动排序",
+  "detail" : "菜单顺序更新（0 项）"
+}, {
+  "id" : 48,
+  "time" : "2026-09-10 22:04:40",
+  "operator" : "系统管理员",
+  "module" : "task",
+  "target" : "task7 报表导出优化",
+  "action" : "看板写回·status",
+  "detail" : "待处理 → 已完成"
+}, {
+  "id" : 49,
+  "time" : "2026-09-10 22:20:47",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "admin(1)",
+  "action" : "修改密码",
+  "detail" : "本人自助修改"
+}, {
+  "id" : 50,
+  "time" : "2026-09-10 22:21:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "系统管理员(1)",
+  "action" : "更换头像",
+  "detail" : "更新头像"
+}, {
+  "id" : 51,
+  "time" : "2026-09-10 22:21:23",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "系统管理员(1)",
+  "action" : "更换头像",
+  "detail" : "恢复默认头像"
+}, {
+  "id" : 52,
+  "time" : "2026-09-10 23:20:14",
+  "operator" : "系统管理员",
+  "module" : "user",
+  "target" : "系统管理员(1)",
+  "action" : "更换头像",
+  "detail" : "更新头像"
+}, {
+  "id" : 53,
+  "time" : "2026-09-10 23:27:23",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "删除子系统",
+  "detail" : "数据接口子系统(s2)（解除任务关联 0 个）"
+}, {
+  "id" : 54,
+  "time" : "2026-09-10 23:27:37",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "新增子系统",
+  "detail" : "qwerfdsa(s2)"
+}, {
+  "id" : 55,
+  "time" : "2026-09-11 00:07:17",
+  "operator" : "系统管理员",
+  "module" : "module",
+  "target" : "国企名录(m1)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 56,
+  "time" : "2026-09-11 00:07:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "新增子系统",
+  "detail" : "字段验证子系统(s3)"
+}, {
+  "id" : 57,
+  "time" : "2026-09-11 00:07:17",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "删除子系统",
+  "detail" : "字段验证子系统(s3)（解除任务关联 0 个）"
+}, {
+  "id" : 58,
+  "time" : "2026-09-11 00:15:19",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "编辑子系统",
+  "detail" : "qwerfdsa → qwerfdsa(s2)"
+}, {
+  "id" : 59,
+  "time" : "2026-09-11 00:36:45",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题A(tp6)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 60,
+  "time" : "2026-09-11 00:36:45",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题B(tp7)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 61,
+  "time" : "2026-09-11 00:37:12",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题A改(tp6)",
+  "action" : "编辑",
+  "detail" : "临时验证专题A / 黄军 / 非活跃 → 临时验证专题A改 / 李磊 / 非活跃"
+}, {
+  "id" : 62,
+  "time" : "2026-09-11 00:37:12",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题B(tp7)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 63,
+  "time" : "2026-09-11 00:37:23",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "前端性能优化(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 64,
+  "time" : "2026-09-11 00:37:24",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "导入专题甲(tp7)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 65,
+  "time" : "2026-09-11 00:37:24",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "导入专题乙(tp8)",
+  "action" : "导入",
+  "detail" : "CSV 批量导入"
+}, {
+  "id" : 66,
+  "time" : "2026-09-11 00:37:24",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "导入专题甲(tp7)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 67,
+  "time" : "2026-09-11 00:37:24",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "导入专题乙(tp8)",
+  "action" : "状态自动流转",
+  "detail" : "— → 非活跃"
+}, {
+  "id" : 68,
+  "time" : "2026-09-11 00:37:33",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "新增子系统",
+  "detail" : "验证子系统(s3)"
+}, {
+  "id" : 69,
+  "time" : "2026-09-11 00:37:33",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "编辑子系统",
+  "detail" : "验证子系统 → 验证子系统改(s3)"
+}, {
+  "id" : 70,
+  "time" : "2026-09-11 00:37:42",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题B(tp9)",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 71,
+  "time" : "2026-09-11 00:37:53",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题A改(tp6)",
+  "action" : "状态自动流转",
+  "detail" : "非活跃 → 活跃"
+}, {
+  "id" : 72,
+  "time" : "2026-09-11 00:37:53",
+  "operator" : "系统管理员",
+  "module" : "doc",
+  "target" : "doc5 级联验证文档",
+  "action" : "新增",
+  "detail" : "—"
+}, {
+  "id" : 73,
+  "time" : "2026-09-11 00:37:53",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题A改(tp6)",
+  "action" : "删除",
+  "detail" : "级联删除任务 1 个、文档 1 个"
+}, {
+  "id" : 74,
+  "time" : "2026-09-11 00:38:07",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "导入专题甲(tp7)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 75,
+  "time" : "2026-09-11 00:38:07",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "导入专题乙(tp8)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 76,
+  "time" : "2026-09-11 00:38:07",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "临时验证专题B(tp9)",
+  "action" : "删除",
+  "detail" : "级联删除任务 0 个、文档 0 个"
+}, {
+  "id" : 77,
+  "time" : "2026-09-11 00:38:07",
+  "operator" : "系统管理员",
+  "module" : "topic",
+  "target" : "前端性能优化(tp1)",
+  "action" : "状态自动流转",
+  "detail" : "活跃 → 非活跃"
+}, {
+  "id" : 78,
+  "time" : "2026-09-11 00:38:07",
+  "operator" : "系统管理员",
+  "module" : "project",
+  "target" : "智慧统计项目(p1)",
+  "action" : "删除子系统",
+  "detail" : "验证子系统改(s3)（解除任务关联 0 个）"
+} ]

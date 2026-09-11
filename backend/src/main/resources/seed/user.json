@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "系统管理员",
+    "employeeNo": "EMP001",
+    "mobile": "13800000001",
+    "email": "admin@bsp.com",
+    "managerUserId": null,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00",
+    "deptId": null,
+    "groupId": null
+  }
+]

@@ -1,0 +1,29 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: bsp-admin-backend
+  jackson:
+    # 未匹配到具体类型的字段以原始形态返回，避免 seed 导入字段演进时报错
+    deserialization:
+      fail-on-unknown-properties: false
+    default-property-inclusion: non_null
+  mvc:
+    async:
+      # SSE 流式对话可能超过 Tomcat 默认异步超时，放宽到 5 分钟
+      request-timeout: 300000
+
+app:
+  # JSON 文件数据目录（工程 backend/ 下，二期切换达梦后废弃）
+  data-dir: ./data
+  # 管理小帮手（原统计智慧助手）：OpenAI 兼容接口（兼容 DeepSeek / 通义 / Kimi / 智谱等，换供应商只改配置）
+  ai:
+    # 接口根地址（含 /v1），如 https://api.deepseek.com/v1
+    base-url: ${AI_BASE_URL:https://api.deepseek.com}
+    api-key: ${AI_API_KEY:sk-0f68402657984fecb83e05d1facb5c3b}
+    model: ${AI_MODEL:deepseek-v4-pro}
+    # 单次上游调用超时（秒）
+    timeout-seconds: 60
+    # 携带最近几轮历史消息作为上下文
+    context-messages: 10

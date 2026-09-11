@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1,
+    "dictId": 1,
+    "code": "IN_PROGRESS",
+    "name": "在建",
+    "ext": {
+      "color": "#3498db",
+      "is_terminal": "true"
+    },
+    "sort": 1,
+    "status": 0,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 10:56:02",
+    "deleted": 1
+  },
+  {
+    "id": 2,
+    "dictId": 1,
+    "code": "SIGNED",
+    "name": "已签约",
+    "ext": {
+      "color": "#9b59b6",
+      "is_terminal": "false"
+    },
+    "sort": 2,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 11:12:41",
+    "deleted": 0
+  },
+  {
+    "id": 3,
+    "dictId": 1,
+    "code": "OPS",
+    "name": "运维",
+    "ext": {
+      "color": "#f39c12",
+      "is_terminal": "false"
+    },
+    "sort": 3,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 11:05:40",
+    "deleted": 0
+  },
+  {
+    "id": 4,
+    "dictId": 1,
+    "code": "DONE",
+    "name": "完成",
+    "ext": {
+      "color": "#2ecc71",
+      "is_terminal": "true"
+    },
+    "sort": 9,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 11:05:40",
+    "deleted": 0
+  },
+  {
+    "id": 5,
+    "dictId": 2,
+    "code": "DEPT_STAT",
+    "name": "部门统计",
+    "sort": 1,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 10:50:32",
+    "deleted": 1
+  },
+  {
+    "id": 6,
+    "dictId": 2,
+    "code": "SASAC",
+    "name": "国资监管",
+    "sort": 2,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 10:50:30",
+    "deleted": 1
+  },
+  {
+    "id": 7,
+    "dictId": 2,
+    "code": "LW_STAT",
+    "name": "轻量级统计",
+    "sort": 3,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 10:50:28",
+    "deleted": 1
+  },
+  {
+    "id": 8,
+    "dictId": 2,
+    "code": "UNI_REPORT",
+    "name": "统一报表",
+    "sort": 4,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 10:50:26",
+    "deleted": 1
+  },
+  {
+    "id": 9,
+    "dictId": 2,
+    "code": "BIZ_LIB",
+    "name": "业务组件库",
+    "sort": 5,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2026-09-11 10:50:24",
+    "deleted": 1
+  },
+  {
+    "id": 10,
+    "dictId": 3,
+    "code": "BSP",
+    "name": "BSP产品",
+    "sort": 1,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00",
+    "deleted": 0
+  },
+  {
+    "id": 11,
+    "dictId": 3,
+    "code": "COMPONENT",
+    "name": "组件",
+    "sort": 2,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00",
+    "deleted": 0
+  },
+  {
+    "id": 12,
+    "dictId": 3,
+    "code": "OTHER",
+    "name": "其他",
+    "sort": 3,
+    "status": 1,
+    "createTime": "2025-01-01 08:00:00",
+    "updateTime": "2025-01-01 08:00:00",
+    "deleted": 0
+  },
+  {
+    "id": 13,
+    "dictId": 1,
+    "code": "TEST_ONLY",
+    "name": "测试态",
+    "ext": {
+      "color": "#123456",
+      "is_terminal": "false"
+    },
+    "sort": 4,
+    "status": 1,
+    "createTime": "2026-09-09 23:18:14",
+    "updateTime": "2026-09-09 23:18:14",
+    "deleted": 1
+  },
+  {
+    "id": 14,
+    "dictId": 4,
+    "code": "ACTIVE",
+    "name": "活跃",
+    "sort": 1,
+    "status": 1,
+    "createTime": "2026-09-10 08:00:00",
+    "updateTime": "2026-09-10 08:00:00",
+    "deleted": 0
+  },
+  {
+    "id": 15,
+    "dictId": 4,
+    "code": "INACTIVE",
+    "name": "非活跃",
+    "sort": 2,
+    "status": 1,
+    "createTime": "2026-09-10 08:00:00",
+    "updateTime": "2026-09-10 08:00:00",
+    "deleted": 0
+  },
+  {
+    "id": 16,
+    "dictId": 2,
+    "code": "BMTJ",
+    "name": "部门统计-BMTJ/GSI",
+    "ext": {},
+    "sort": 6,
+    "status": 1,
+    "createTime": "2026-09-11 10:48:37",
+    "updateTime": "2026-09-11 10:48:37",
+    "deleted": 0
+  },
+  {
+    "id": 17,
+    "dictId": 2,
+    "code": "PMS",
+    "name": "国资监管-PMS",
+    "ext": {},
+    "sort": 7,
+    "status": 1,
+    "createTime": "2026-09-11 10:53:23",
+    "updateTime": "2026-09-11 10:53:23",
+    "deleted": 0
+  },
+  {
+    "id": 18,
+    "dictId": 2,
+    "code": "JRWZJG",
+    "name": "金融文资监管-JRWZJG",
+    "ext": {},
+    "sort": 8,
+    "status": 1,
+    "createTime": "2026-09-11 10:53:40",
+    "updateTime": "2026-09-11 10:53:40",
+    "deleted": 0
+  },
+  {
+    "id": 19,
+    "dictId": 2,
+    "code": "QTJ",
+    "name": "轻量级统计-QTJ",
+    "ext": {},
+    "sort": 9,
+    "status": 1,
+    "createTime": "2026-09-11 10:53:52",
+    "updateTime": "2026-09-11 10:53:52",
+    "deleted": 0
+  },
+  {
+    "id": 20,
+    "dictId": 2,
+    "code": "BSP",
+    "name": "统计大数据底座-BSP",
+    "ext": {},
+    "sort": 10,
+    "status": 1,
+    "createTime": "2026-09-11 10:54:02",
+    "updateTime": "2026-09-11 10:54:02",
+    "deleted": 0
+  },
+  {
+    "id": 21,
+    "dictId": 2,
+    "code": "TYBB",
+    "name": "统一报表-TYBB",
+    "ext": {},
+    "sort": 11,
+    "status": 1,
+    "createTime": "2026-09-11 10:54:15",
+    "updateTime": "2026-09-11 10:54:15",
+    "deleted": 0
+  },
+  {
+    "id": 22,
+    "dictId": 2,
+    "code": "GMS",
+    "name": "业务组件库-GMS",
+    "ext": {},
+    "sort": 12,
+    "status": 1,
+    "createTime": "2026-09-11 10:54:23",
+    "updateTime": "2026-09-11 10:54:23",
+    "deleted": 0
+  },
+  {
+    "id": 23,
+    "dictId": 1,
+    "code": "ING",
+    "name": "在建",
+    "ext": {
+      "color": "#95a5a6",
+      "is_terminal": "false"
+    },
+    "sort": 10,
+    "status": 1,
+    "createTime": "2026-09-11 10:56:25",
+    "updateTime": "2026-09-11 11:05:40",
+    "deleted": 0
+  }
+]
